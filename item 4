@@ -1,0 +1,1267 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="PORTADA" tvg-name="PORTADA" tvg-logo="https://i5.satexpat.com/cha/es/movistar-plus-95x20.png" group-title="TELEVISION DIGITAL TERRESTRE",PORTADA
+http://6ura.top:8000/fj50/ST5hj6jmQK/706
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="LA 1 HD" tvg-logo="https://www.vodafone.es/c/microsite/1500009248080/img/1419.png" group-title="TELEVISION DIGITAL TERRESTRE",LA 1 HD
+http://6ura.top:8000/fj50/ST5hj6jmQK/106
+#EXTINF:-1 tvg-id="LA 1" tvg-name="LA 1" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TVE.png" group-title="TELEVISION DIGITAL TERRESTRE",LA 1
+http://6ura.top:8000/fj50/ST5hj6jmQK/105
+#EXTINF:-1 tvg-id="LA 2" tvg-name="LA 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/LA2.png" group-title="TELEVISION DIGITAL TERRESTRE",LA 2
+http://6ura.top:8000/fj50/ST5hj6jmQK/107
+#EXTINF:-1 tvg-id="ANTENA 3 HD" tvg-name="ANTENA 3 HD" tvg-logo="https://www.vodafone.es/c/microsite/1500009248080/img/448.png" group-title="TELEVISION DIGITAL TERRESTRE",ANTENA 3 HD
+http://6ura.top:8000/fj50/ST5hj6jmQK/4
+#EXTINF:-1 tvg-id="ANTENA 3" tvg-name="ANTENA 3" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/A3.png" group-title="TELEVISION DIGITAL TERRESTRE",ANTENA 3
+http://6ura.top:8000/fj50/ST5hj6jmQK/75
+#EXTINF:-1 tvg-id="CUATRO HD" tvg-name="CUATRO HD" tvg-logo="https://www.vodafone.es/c/microsite/1500009248080/img/454.png" group-title="TELEVISION DIGITAL TERRESTRE",CUATRO HD
+http://6ura.top:8000/fj50/ST5hj6jmQK/14
+#EXTINF:-1 tvg-id="CUATRO" tvg-name="CUATRO" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/C4.png" group-title="TELEVISION DIGITAL TERRESTRE",CUATRO
+http://6ura.top:8000/fj50/ST5hj6jmQK/92
+#EXTINF:-1 tvg-id="TELECINCO HD" tvg-name="TELECINCO HD" tvg-logo="https://www.vodafone.es/c/microsite/1500009248080/img/447.png" group-title="TELEVISION DIGITAL TERRESTRE",TELECINCO HD
+http://6ura.top:8000/fj50/ST5hj6jmQK/61
+#EXTINF:-1 tvg-id="TELECINCO" tvg-name="TELECINCO" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/T5.png" group-title="TELEVISION DIGITAL TERRESTRE",TELECINCO
+http://6ura.top:8000/fj50/ST5hj6jmQK/144
+#EXTINF:-1 tvg-id="LA SEXTA HD" tvg-name="LA SEXTA HD" tvg-logo="https://www.vodafone.es/c/microsite/1500009248080/img/450.png" group-title="TELEVISION DIGITAL TERRESTRE",LA SEXTA HD
+http://6ura.top:8000/fj50/ST5hj6jmQK/24
+#EXTINF:-1 tvg-id="LA SEXTA" tvg-name="LA SEXTA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SEXTA.png" group-title="TELEVISION DIGITAL TERRESTRE",LA SEXTA
+http://6ura.top:8000/fj50/ST5hj6jmQK/108
+#EXTINF:-1 tvg-id="Telemadrid" tvg-name="Telemadrid HD" tvg-logo="https://www.telemadrid.es/static/BB3HTML/app/images/logos/logo.png" group-title="TELEVISION DIGITAL TERRESTRE",Telemadrid HD
+http://6ura.top:8000/fj50/ST5hj6jmQK/374
+#EXTINF:-1 tvg-id="LaOtra" tvg-name="La Otra HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/OTRA.png" group-title="TELEVISION DIGITAL TERRESTRE",La Otra HD
+http://6ura.top:8000/fj50/ST5hj6jmQK/513
+#EXTINF:-1 tvg-id="Canal Sur HD" tvg-name="CANAL SUR ANDALUCIA HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CSURHD.png" group-title="TELEVISION DIGITAL TERRESTRE",CANAL SUR ANDALUCIA HD
+http://6ura.top:8000/fj50/ST5hj6jmQK/84
+#EXTINF:-1 tvg-id="DMAX" tvg-name="DMAX" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCRMAX.png" group-title="TELEVISION DIGITAL TERRESTRE",DMAX
+http://6ura.top:8000/fj50/ST5hj6jmQK/478
+#EXTINF:-1 tvg-id="DKISS" tvg-name="DKISS" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DKISS.png" group-title="TELEVISION DIGITAL TERRESTRE",DKISS
+http://6ura.top:8000/fj50/ST5hj6jmQK/392
+#EXTINF:-1 tvg-id="BE MAD" tvg-name="BE MAD HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BEMAD.png" group-title="TELEVISION DIGITAL TERRESTRE",BE MAD HD
+http://6ura.top:8000/fj50/ST5hj6jmQK/81
+#EXTINF:-1 tvg-id="ENERGY" tvg-name="ENERGY HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ENERGY.png" group-title="TELEVISION DIGITAL TERRESTRE",ENERGY HD
+http://6ura.top:8000/fj50/ST5hj6jmQK/18
+#EXTINF:-1 tvg-id="FDF" tvg-name="FDF HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/FDFIC.png" group-title="TELEVISION DIGITAL TERRESTRE",FDF HD
+http://6ura.top:8000/fj50/ST5hj6jmQK/98
+#EXTINF:-1 tvg-id="DIVINITY" tvg-name="DIVINITY HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DIVINI.png" group-title="TELEVISION DIGITAL TERRESTRE",DIVINITY HD
+http://6ura.top:8000/fj50/ST5hj6jmQK/17
+#EXTINF:-1 tvg-id="Atreseries HD" tvg-name="ASTRESERIES" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ATRESS.png" group-title="TELEVISION DIGITAL TERRESTRE",ASTRESERIES
+http://6ura.top:8000/fj50/ST5hj6jmQK/1188
+#EXTINF:-1 tvg-id="mega" tvg-name="MEGA HD" tvg-logo="https://www.vodafone.es/c/microsite/1500009248080/img/1596.png?202006031151" group-title="TELEVISION DIGITAL TERRESTRE",MEGA HD
+http://6ura.top:8000/fj50/ST5hj6jmQK/615
+#EXTINF:-1 tvg-id="NEOX" tvg-name="NEOX HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NEOX.png" group-title="TELEVISION DIGITAL TERRESTRE",NEOX HD
+http://6ura.top:8000/fj50/ST5hj6jmQK/136
+#EXTINF:-1 tvg-id="NOVA" tvg-name="NOVA HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NOVA.png" group-title="TELEVISION DIGITAL TERRESTRE",NOVA HD
+http://6ura.top:8000/fj50/ST5hj6jmQK/139
+#EXTINF:-1 tvg-id="CMM" tvg-name="Castilla La Mancha" tvg-logo="https://www.cmmedia.es/wp-content/themes/canal_rtvcm/images/logo.png" group-title="TELEVISION DIGITAL TERRESTRE",Castilla La Mancha
+http://6ura.top:8000/fj50/ST5hj6jmQK/371
+#EXTINF:-1 tvg-id="La 7 HD" tvg-name="La 7 Tv" tvg-logo="http://webtv.7tvregiondemurcia.es/assets/home/images/logos/television-region-mucia.png" group-title="TELEVISION DIGITAL TERRESTRE",La 7 Tv
+http://6ura.top:8000/fj50/ST5hj6jmQK/373
+#EXTINF:-1 tvg-id="DMAX" tvg-name="A PUNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/A_Punt.png" group-title="TELEVISION DIGITAL TERRESTRE",A PUNT
+http://6ura.top:8000/fj50/ST5hj6jmQK/395
+#EXTINF:-1 tvg-id="Esport 3" tvg-name="CANAL TV3 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/TV3_logo.svg/248px-TV3_logo.svg.png" group-title="TELEVISION DIGITAL TERRESTRE",CANAL TV3 
+http://6ura.top:8000/fj50/ST5hj6jmQK/369
+#EXTINF:-1 tvg-id="EXTREMADURA SAT" tvg-name="EXTREMADURA HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/EXTRE.png" group-title="TELEVISION DIGITAL TERRESTRE",EXTREMADURA HD
+http://6ura.top:8000/fj50/ST5hj6jmQK/497
+#EXTINF:-1 tvg-id="TVGA HD EUROPA" tvg-name="TV GALICIA HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TVGAL.png" group-title="TELEVISION DIGITAL TERRESTRE",TV GALICIA HD
+http://6ura.top:8000/fj50/ST5hj6jmQK/553
+#EXTINF:-1 tvg-id="RT Esp HD" tvg-name="RT Esp HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/RTESP.png" group-title="TELEVISION DIGITAL TERRESTRE",RT Esp HD
+http://6ura.top:8000/fj50/ST5hj6jmQK/498
+#EXTINF:-1 tvg-id="ETB 1 HD" tvg-name="Etb " tvg-logo="https://images14.eitb.eus/multimedia/recursos/generales/logo_eitbeus_nietxean2.gif" group-title="TELEVISION DIGITAL TERRESTRE",Etb 
+http://6ura.top:8000/fj50/ST5hj6jmQK/372
+#EXTINF:-1 tvg-id="ARAGON TV INT" tvg-name="ARAGON TV INT" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ARAGTV.png" group-title="TELEVISION DIGITAL TERRESTRE",ARAGON TV INT
+http://6ura.top:8000/fj50/ST5hj6jmQK/76
+#EXTINF:-1 tvg-id="24 HORAS" tvg-name="24 HORAS" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/24H.png" group-title="TELEVISION DIGITAL TERRESTRE",24 HORAS
+http://6ura.top:8000/fj50/ST5hj6jmQK/74
+#EXTINF:-1 tvg-id="Cubavision Internacional" tvg-name="CUBAVISION INTERNACIONAL" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CUBAV.png" group-title="TELEVISION DIGITAL TERRESTRE",CUBAVISION INTERNACIONAL
+http://6ura.top:8000/fj50/ST5hj6jmQK/885
+#EXTINF:-1 tvg-id="DreamWorks HD" tvg-name="DREAMWORKS HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DWSP.png" group-title="JUNIOR",DREAMWORKS HD
+http://6ura.top:8000/fj50/ST5hj6jmQK/1147
+#EXTINF:-1 tvg-id="DreamWorks" tvg-name="DREAMWORKS" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DWSP.png" group-title="JUNIOR",DREAMWORKS
+http://6ura.top:8000/fj50/ST5hj6jmQK/1146
+#EXTINF:-1 tvg-id="Orange Series" tvg-name="CANAL ORANGE  HD" tvg-logo="https://orangetv.orange.es/pc/api/rtv/v1/images/attachments/C_ORANGE_176x122.png" group-title="CINE+SERIES",CANAL ORANGE  HD
+http://6ura.top:8000/fj50/ST5hj6jmQK/1128
+#EXTINF:-1 tvg-id="#0 HD" tvg-name="#0HD" tvg-logo="http://www.movistarplus.es/assets/images/logo-cero-desk.png" group-title="CINE+SERIES",#0HD
+http://6ura.top:8000/fj50/ST5hj6jmQK/675
+#EXTINF:-1 tvg-id="#0" tvg-name="#0" tvg-logo="http://www.movistarplus.es/assets/images/logo-cero-desk.png" group-title="CINE+SERIES",#0
+http://6ura.top:8000/fj50/ST5hj6jmQK/72
+#EXTINF:-1 tvg-id="M.ESTRENOSHD" tvg-name="M.ESTRENOS HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV1.png" group-title="CINE+SERIES",M.ESTRENOS HD
+http://6ura.top:8000/fj50/ST5hj6jmQK/125
+#EXTINF:-1 tvg-id="M. ESTRENOS" tvg-name="M. ESTRENOS" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV1.png" group-title="CINE+SERIES",M. ESTRENOS
+http://6ura.top:8000/fj50/ST5hj6jmQK/34
+#EXTINF:-1 tvg-id="M. ESTRENOS 2 HD" tvg-name="M. ESTRENOS 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MEST2.png" group-title="CINE+SERIES",M. ESTRENOS 2 HD
+http://6ura.top:8000/fj50/ST5hj6jmQK/1328
+#EXTINF:-1 tvg-id="M. ACCIÓN HD" tvg-name="M. ACCION HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPACCI.png" group-title="CINE+SERIES",M. ACCION HD
+http://6ura.top:8000/fj50/ST5hj6jmQK/25
+#EXTINF:-1 tvg-id="M. ACCIÓN" tvg-name="M. ACCION" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPACCI.png" group-title="CINE+SERIES",M. ACCION
+http://6ura.top:8000/fj50/ST5hj6jmQK/111
+#EXTINF:-1 tvg-id="M.COMEDIA HD" tvg-name="M.COMEDIA HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOME.png" group-title="CINE+SERIES",M.COMEDIA HD
+http://6ura.top:8000/fj50/ST5hj6jmQK/168
+#EXTINF:-1 tvg-id="M. COMEDIA" tvg-name="M. COMEDIA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOME.png" group-title="CINE+SERIES",M. COMEDIA
+http://6ura.top:8000/fj50/ST5hj6jmQK/113
+#EXTINF:-1 tvg-id="M. DRAMA HD" tvg-name="M. DRAMA HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOLE.png" group-title="CINE+SERIES",M. DRAMA HD
+http://6ura.top:8000/fj50/ST5hj6jmQK/33
+#EXTINF:-1 tvg-id="M. DRAMA" tvg-name="M. DRAMA SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOLE.png" group-title="CINE+SERIES",M. DRAMA SD
+http://6ura.top:8000/fj50/ST5hj6jmQK/117
+#EXTINF:-1 tvg-id="M. CLÁSICOS HD" tvg-name="M.CLASICOS HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCLAS.png" group-title="CINE+SERIES",M.CLASICOS HD
+http://6ura.top:8000/fj50/ST5hj6jmQK/1335
+#EXTINF:-1 tvg-id="M. CLÁSICOS" tvg-name="M.CLASICOS" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCLAS.png" group-title="CINE+SERIES",M.CLASICOS
+http://6ura.top:8000/fj50/ST5hj6jmQK/1334
+#EXTINF:-1 tvg-id="M. SERIES HD" tvg-name="M.Series HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV2.png" group-title="CINE+SERIES",M.Series HD
+http://6ura.top:8000/fj50/ST5hj6jmQK/133
+#EXTINF:-1 tvg-id="M. SERIES" tvg-name="M. SERIES" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV2.png" group-title="CINE+SERIES",M. SERIES
+http://6ura.top:8000/fj50/ST5hj6jmQK/40
+#EXTINF:-1 tvg-id="M. SERIES  2 HD" tvg-name="M. SERIES 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPSER.png" group-title="CINE+SERIES",M. SERIES 2 HD
+http://6ura.top:8000/fj50/ST5hj6jmQK/39
+#EXTINF:-1 tvg-id="M. SERIES 2 HD" tvg-name="M.SERIES 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPSER.png" group-title="CINE+SERIES",M.SERIES 2
+http://6ura.top:8000/fj50/ST5hj6jmQK/1332
+#EXTINF:-1 tvg-id="M. Cine Español" tvg-name="M. CINE ESPAÑOL" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCESP.png" group-title="CINE+SERIES",M. CINE ESPAÑOL
+http://6ura.top:8000/fj50/ST5hj6jmQK/112
+#EXTINF:-1 tvg-id="MTV ESPAÑA" tvg-name="MTV ESPAÑA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MTV.png" group-title="CINE+SERIES",MTV ESPAÑA
+http://6ura.top:8000/fj50/ST5hj6jmQK/51
+#EXTINF:-1 tvg-id="Somos" tvg-name="SOMOS" tvg-logo="https://www.vodafone.es/c/microsite/1500009248080/img/586.png" group-title="CINE+SERIES",SOMOS
+http://6ura.top:8000/fj50/ST5hj6jmQK/796
+#EXTINF:-1 tvg-id="BOM" tvg-name="BOM CINE" tvg-logo="https://estaticos.tdt1.com/canales/logobomtv.jpg" group-title="CINE+SERIES",BOM CINE
+http://6ura.top:8000/fj50/ST5hj6jmQK/512
+#EXTINF:-1 tvg-id="DARK" tvg-name="DARK " tvg-logo="https://www.vodafone.es/c/microsite/1500009248080/img/579.png" group-title="CINE+SERIES",DARK 
+http://6ura.top:8000/fj50/ST5hj6jmQK/342
+#EXTINF:-1 tvg-id="XTRM" tvg-name="XTRM HD" tvg-logo="https://www.vodafone.es/c/microsite/1500009248080/img/1540.png" group-title="CINE+SERIES",XTRM HD
+http://6ura.top:8000/fj50/ST5hj6jmQK/260
+#EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN HD" tvg-logo="https://www.vodafone.es/c/microsite/1500009248080/img/589.png" group-title="CINE+SERIES",AXN HD
+http://6ura.top:8000/fj50/ST5hj6jmQK/78
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/AXN.png" group-title="CINE+SERIES",AXN
+http://6ura.top:8000/fj50/ST5hj6jmQK/77
+#EXTINF:-1 tvg-id="AXN WHITE HD" tvg-name="AXNWHITE HD" tvg-logo="https://www.vodafone.es/c/microsite/1500009248080/img/1431.png" group-title="CINE+SERIES",AXNWHITE HD
+http://6ura.top:8000/fj50/ST5hj6jmQK/167
+#EXTINF:-1 tvg-id="AXN WHITE" tvg-name="AXN WHITE" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SET.png" group-title="CINE+SERIES",AXN WHITE
+http://6ura.top:8000/fj50/ST5hj6jmQK/79
+#EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC HD" tvg-logo="https://www.vodafone.es/c/microsite/1500009248080/img/1585.png" group-title="CINE+SERIES",AMC HD
+http://6ura.top:8000/fj50/ST5hj6jmQK/3
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/AMC.png" group-title="CINE+SERIES",AMC
+http://6ura.top:8000/fj50/ST5hj6jmQK/2
+#EXTINF:-1 tvg-id="TNT HD" tvg-name="TNT HD" tvg-logo="https://www.vodafone.es/c/microsite/1500009248080/img/549.png" group-title="CINE+SERIES",TNT HD
+http://6ura.top:8000/fj50/ST5hj6jmQK/63
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TNT.png" group-title="CINE+SERIES",TNT
+http://6ura.top:8000/fj50/ST5hj6jmQK/145
+#EXTINF:-1 tvg-id="SYFY HD" tvg-name="SYFY HD" tvg-logo="https://www.vodafone.es/c/microsite/1500009248080/img/1558.png" group-title="CINE+SERIES",SYFY HD
+http://6ura.top:8000/fj50/ST5hj6jmQK/143
+#EXTINF:-1 tvg-id="SYFY" tvg-name="SYFY" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SCI-FI.png" group-title="CINE+SERIES",SYFY
+http://6ura.top:8000/fj50/ST5hj6jmQK/58
+#EXTINF:-1 tvg-id="COMEDYCENTRALHD" tvg-name="COMEDYCENTRAL HD" tvg-logo="https://www.vodafone.es/c/microsite/1500009248080/img/1578.png" group-title="CINE+SERIES",COMEDYCENTRAL HD
+http://6ura.top:8000/fj50/ST5hj6jmQK/88
+#EXTINF:-1 tvg-id="COMEDY CENTRAL" tvg-name="COMEDY CENTRAL" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PCM.png" group-title="CINE+SERIES",COMEDY CENTRAL
+http://6ura.top:8000/fj50/ST5hj6jmQK/13
+#EXTINF:-1 tvg-id="COSMO HD" tvg-name="COSMO HD" tvg-logo="https://www.vodafone.es/c/microsite/1500009248080/img/584.png" group-title="CINE+SERIES",COSMO HD
+http://6ura.top:8000/fj50/ST5hj6jmQK/90
+#EXTINF:-1 tvg-id="COSMO" tvg-name="COSMO" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/COSMO.png" group-title="CINE+SERIES",COSMO
+http://6ura.top:8000/fj50/ST5hj6jmQK/89
+#EXTINF:-1 tvg-id="FOX HD" tvg-name="FOX HD" tvg-logo="https://www.vodafone.es/c/microsite/1500009248080/img/576.png" group-title="CINE+SERIES",FOX HD
+http://6ura.top:8000/fj50/ST5hj6jmQK/21
+#EXTINF:-1 tvg-id="FOX" tvg-name="FOX" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/FOXGE.png" group-title="CINE+SERIES",FOX
+http://6ura.top:8000/fj50/ST5hj6jmQK/99
+#EXTINF:-1 tvg-id="FOX LIFE HD" tvg-name="FOX LIFE HD" tvg-logo="https://www.vodafone.es/c/microsite/1500009248080/img/1582.png" group-title="CINE+SERIES",FOX LIFE HD
+http://6ura.top:8000/fj50/ST5hj6jmQK/101
+#EXTINF:-1 tvg-id="FOX LIFE" tvg-name="FOX LIFE" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/FOXCR.png" group-title="CINE+SERIES",FOX LIFE
+http://6ura.top:8000/fj50/ST5hj6jmQK/100
+#EXTINF:-1 tvg-id="CALLE 13 HD" tvg-name="CALLE 13 HD" tvg-logo="https://www.vodafone.es/c/microsite/1500009248080/img/1557.png" group-title="CINE+SERIES",CALLE 13 HD
+http://6ura.top:8000/fj50/ST5hj6jmQK/146
+#EXTINF:-1 tvg-id="CALLE 13" tvg-name="CALLE  13" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CL13.png" group-title="CINE+SERIES",CALLE  13
+http://6ura.top:8000/fj50/ST5hj6jmQK/8
+#EXTINF:-1 tvg-id="HOLLYWOODHD" tvg-name="HOLLYWOOD HD" tvg-logo="https://www.vodafone.es/c/microsite/1500009248080/img/530.png" group-title="CINE+SERIES",HOLLYWOOD HD
+http://6ura.top:8000/fj50/ST5hj6jmQK/23
+#EXTINF:-1 tvg-id="HOLLYWOOD" tvg-name="HOLLYWOOD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HOLLYW.png" group-title="CINE+SERIES",HOLLYWOOD
+http://6ura.top:8000/fj50/ST5hj6jmQK/103
+#EXTINF:-1 tvg-id="TCM HD" tvg-name="TCM HD" tvg-logo="https://www.vodafone.es/c/microsite/1500009248080/img/1545.png" group-title="CINE+SERIES",TCM HD
+http://6ura.top:8000/fj50/ST5hj6jmQK/60
+#EXTINF:-1 tvg-id="TCM" tvg-name="TCM" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TCM.png" group-title="CINE+SERIES",TCM
+http://6ura.top:8000/fj50/ST5hj6jmQK/59
+#EXTINF:-1 tvg-id="PARAMOUNT" tvg-name="PARAMOUNT NETWORK" tvg-logo="https://www.vodafone.es/c/microsite/1500009248080/img/1490.png" group-title="CINE+SERIES",PARAMOUNT NETWORK
+http://6ura.top:8000/fj50/ST5hj6jmQK/140
+#EXTINF:-1 tvg-id="SUNDANCE TV" tvg-name="SUNDANCE TV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SUNDAN.png" group-title="CINE+SERIES",SUNDANCE TV
+http://6ura.top:8000/fj50/ST5hj6jmQK/142
+#EXTINF:-1 tvg-id="" tvg-name="NASA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NASA_logo.svg/140px-NASA_logo.svg.png" group-title="DOCUMENTALES",NASA TV
+http://6ura.top:8000/fj50/ST5hj6jmQK/1242
+#EXTINF:-1 tvg-id="HISTORIA" tvg-name="HISTORIA FHD" tvg-logo="https://www.vodafone.es/c/microsite/1500009248080/img/569.png" group-title="DOCUMENTALES",HISTORIA FHD
+http://6ura.top:8000/fj50/ST5hj6jmQK/467
+#EXTINF:-1 tvg-id="HISTORIA" tvg-name="HISTORIA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HIST.png" group-title="DOCUMENTALES",HISTORIA
+http://6ura.top:8000/fj50/ST5hj6jmQK/102
+#EXTINF:-1 tvg-id="CANAL ODISEA" tvg-name="ODISEA HD" tvg-logo="https://www.vodafone.es/c/microsite/1500009248080/img/567.png" group-title="DOCUMENTALES",ODISEA HD
+http://6ura.top:8000/fj50/ST5hj6jmQK/770
+#EXTINF:-1 tvg-id="CANAL ODISEA" tvg-name="CANAL ODISEA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ODISEA.png" group-title="DOCUMENTALES",CANAL ODISEA
+http://6ura.top:8000/fj50/ST5hj6jmQK/11
+#EXTINF:-1 tvg-id="discoverychannel.es" tvg-name="DISCOVERY CHANNEL FHD" tvg-logo="https://www.vodafone.es/c/microsite/1500009248080/img/1495.png" group-title="DOCUMENTALES",DISCOVERY CHANNEL FHD
+http://6ura.top:8000/fj50/ST5hj6jmQK/469
+#EXTINF:-1 tvg-id="DISCOVERY" tvg-name="DISCOVERY" tvg-logo="https://orangetv.orange.es/pc/api/rtv/v1/images/attachments/discovery_logo.png" group-title="DOCUMENTALES",DISCOVERY
+http://6ura.top:8000/fj50/ST5hj6jmQK/93
+#EXTINF:-1 tvg-id="NAT GEO HD" tvg-name="NAT GEOGRAPHIC HD" tvg-logo="https://www.vodafone.es/c/microsite/1500009248080/img/571.png" group-title="DOCUMENTALES",NAT GEOGRAPHIC HD
+http://6ura.top:8000/fj50/ST5hj6jmQK/52
+#EXTINF:-1 tvg-id="NAT GEOGRAPH" tvg-name="NAT GEOGRAPHIC SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NATGEO.png" group-title="DOCUMENTALES",NAT GEOGRAPHIC SD
+http://6ura.top:8000/fj50/ST5hj6jmQK/53
+#EXTINF:-1 tvg-id="NG WILD HD" tvg-name="NAT GEOGRAPHIC WILD HD" tvg-logo="https://www.vodafone.es/c/microsite/1500009248080/img/1497.png" group-title="DOCUMENTALES",NAT GEOGRAPHIC WILD HD
+http://6ura.top:8000/fj50/ST5hj6jmQK/54
+#EXTINF:-1 tvg-id="NAT GEO WILD" tvg-name="National Geographic Wild" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NATGW.png" group-title="DOCUMENTALES",National Geographic Wild
+http://6ura.top:8000/fj50/ST5hj6jmQK/135
+#EXTINF:-1 tvg-id="CRIMEN+INVES" tvg-name="CRIMEN+INVES" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CYM.png" group-title="DOCUMENTALES",CRIMEN+INVES
+http://6ura.top:8000/fj50/ST5hj6jmQK/91
+#EXTINF:-1 tvg-id="BLAZE" tvg-name="BLAZE" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BIOGRA.png" group-title="DOCUMENTALES",BLAZE
+http://6ura.top:8000/fj50/ST5hj6jmQK/82
+#EXTINF:-1 tvg-id="CAZAyPESCA HD" tvg-name="CAZAyPESCA HD" tvg-logo="https://www.movistarplus.es/recorte/e/original/d73625a38d72d19aa72696c8bf5a2bce" group-title="DOCUMENTALES",CAZAyPESCA HD
+http://6ura.top:8000/fj50/ST5hj6jmQK/12
+#EXTINF:-1 tvg-id="CAZA Y PESCA" tvg-name="CAZA Y PESCA" tvg-logo="https://www.movistarplus.es/recorte/e/original/d73625a38d72d19aa72696c8bf5a2bce" group-title="DOCUMENTALES",CAZA Y PESCA
+http://6ura.top:8000/fj50/ST5hj6jmQK/85
+#EXTINF:-1 tvg-id="Cazavision" tvg-name="CAZAVISON" tvg-logo="https://www.vodafone.es/c/microsite/1500009248080/img/547.png" group-title="DOCUMENTALES",CAZAVISON
+http://6ura.top:8000/fj50/ST5hj6jmQK/704
+#EXTINF:-1 tvg-id="IBERALIA TV" tvg-name="IBERALIA TV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/IBERAL.png" group-title="DOCUMENTALES",IBERALIA TV
+http://6ura.top:8000/fj50/ST5hj6jmQK/104
+#EXTINF:-1 tvg-id="CANAL COCINA" tvg-name="CANAL COCINA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CACOC.png" group-title="DOCUMENTALES",CANAL COCINA
+http://6ura.top:8000/fj50/ST5hj6jmQK/9
+#EXTINF:-1 tvg-id="CANAL DECASA" tvg-name="CANAL DECASA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DECASA.png" group-title="DOCUMENTALES",CANAL DECASA
+http://6ura.top:8000/fj50/ST5hj6jmQK/10
+#EXTINF:-1 tvg-id="TOROS HD" tvg-name="TOROS HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CFERIA.png" group-title="DOCUMENTALES",TOROS HD
+http://6ura.top:8000/fj50/ST5hj6jmQK/65
+#EXTINF:-1 tvg-id="TOROS" tvg-name="TOROS" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CFERIA.png" group-title="DOCUMENTALES",TOROS
+http://6ura.top:8000/fj50/ST5hj6jmQK/64
+#EXTINF:-1 tvg-id="VIAJAR HD" tvg-name="VIAJAR HD" tvg-logo="https://www.vodafone.es/c/microsite/1500009248080/img/1498.png" group-title="DOCUMENTALES",VIAJAR HD
+http://6ura.top:8000/fj50/ST5hj6jmQK/1145
+#EXTINF:-1 tvg-id="VIAJAR" tvg-name="VIAJAR" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/VJR.png" group-title="DOCUMENTALES",VIAJAR
+http://6ura.top:8000/fj50/ST5hj6jmQK/66
+#EXTINF:-1 tvg-id="NICKELODEONHD" tvg-name="NICKELODEON HD" tvg-logo="https://www.vodafone.es/c/microsite/1500009248080/img/520.png" group-title="JUNIOR",NICKELODEON HD
+http://6ura.top:8000/fj50/ST5hj6jmQK/55
+#EXTINF:-1 tvg-id="NICKELODEON" tvg-name="NICKELODEON" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NICK.png" group-title="JUNIOR",NICKELODEON
+http://6ura.top:8000/fj50/ST5hj6jmQK/138
+#EXTINF:-1 tvg-id="DISNEY CH HD" tvg-name="DISNEY CHANEL HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCH.png" group-title="JUNIOR",DISNEY CHANEL HD
+http://6ura.top:8000/fj50/ST5hj6jmQK/15
+#EXTINF:-1 tvg-id="DISNEY CH." tvg-name="DISNEY CHANEL SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCH.png" group-title="JUNIOR",DISNEY CHANEL SD
+http://6ura.top:8000/fj50/ST5hj6jmQK/16
+#EXTINF:-1 tvg-id="DISNEY JR" tvg-name="DISNEY JR" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PLAYDC.png" group-title="JUNIOR",DISNEY JR
+http://6ura.top:8000/fj50/ST5hj6jmQK/94
+#EXTINF:-1 tvg-id="BABY TV" tvg-name="BABY TV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BABY.png" group-title="JUNIOR",BABY TV
+http://6ura.top:8000/fj50/ST5hj6jmQK/5
+#EXTINF:-1 tvg-id="NICK JR" tvg-name="NICK JR" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NICKJR.png" group-title="JUNIOR",NICK JR
+http://6ura.top:8000/fj50/ST5hj6jmQK/137
+#EXTINF:-1 tvg-id="BOING" tvg-name="BOING" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BOING.png" group-title="JUNIOR",BOING
+http://6ura.top:8000/fj50/ST5hj6jmQK/7
+#EXTINF:-1 tvg-id="CANAL PANDA" tvg-name="CANAL PANDA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PANDA.png" group-title="JUNIOR",CANAL PANDA
+http://6ura.top:8000/fj50/ST5hj6jmQK/83
+#EXTINF:-1 tvg-id="CLAN TVE" tvg-name="CLAN HD" tvg-logo="https://www.vodafone.es/c/microsite/1500009248080/img/465.png" group-title="JUNIOR",CLAN HD
+http://6ura.top:8000/fj50/ST5hj6jmQK/86
+#EXTINF:-1 tvg-id="MULTIDEPORTE" tvg-name="MULTIDEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8d/Movistar_TV_logo_2018.png" group-title="EVENTOS DEPORTIVOS",MULTIDEPORTE
+http://6ura.top:8000/fj50/ST5hj6jmQK/1176
+#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="DAZN F1 HD " tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" group-title="EVENTOS DEPORTIVOS",DAZN F1 HD 
+http://6ura.top:8000/fj50/ST5hj6jmQK/43
+#EXTINF:-1 tvg-id="DAZN 1 HD" tvg-name="DAZN  1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/M1SD.png" group-title="EVENTOS DEPORTIVOS",DAZN  1 HD
+http://6ura.top:8000/fj50/ST5hj6jmQK/771
+#EXTINF:-1 tvg-id="DAZN 2 HD" tvg-name="DAZN 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/M2SD.png" group-title="EVENTOS DEPORTIVOS",DAZN 2 HD
+http://6ura.top:8000/fj50/ST5hj6jmQK/774
+#EXTINF:-1 tvg-id="DAZN 3 HD" tvg-name="DAZN 3 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZN3.png" group-title="EVENTOS DEPORTIVOS",DAZN 3 HD
+http://6ura.top:8000/fj50/ST5hj6jmQK/1184
+#EXTINF:-1 tvg-id="DAZN 4 HD" tvg-name="DAZN 4 HD " tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZN4.png" group-title="EVENTOS DEPORTIVOS",DAZN 4 HD 
+http://6ura.top:8000/fj50/ST5hj6jmQK/1185
+#EXTINF:-1 tvg-id="#VAMOSHD" tvg-name="#VAMOSHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/VAMOSD.png" group-title="EVENTOS DEPORTIVOS",#VAMOSHD
+http://6ura.top:8000/fj50/ST5hj6jmQK/187
+#EXTINF:-1 tvg-id="#VAMOS" tvg-name="#VAMOS" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/VAMOSD.png" group-title="EVENTOS DEPORTIVOS",#VAMOS
+http://6ura.top:8000/fj50/ST5hj6jmQK/73
+#EXTINF:-1 tvg-id="M. LaLiga HD" tvg-name="M.LA LIGA HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="EVENTOS DEPORTIVOS",M.LA LIGA HD
+http://6ura.top:8000/fj50/ST5hj6jmQK/804
+#EXTINF:-1 tvg-id="M. LaLiga 1 HD" tvg-name="M.LA LIGA 1 hd" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG1.png" group-title="EVENTOS DEPORTIVOS",M.LA LIGA 1 hd
+http://6ura.top:8000/fj50/ST5hj6jmQK/44
+#EXTINF:-1 tvg-id="M. LaLiga 2 HD" tvg-name="M.LA LIGA 2 HD" tvg-logo="https://orangetv.orange.es/pc/api/rtv/v1/images/IMAGES/O/x_e3e1fffbaa8b0573d284b1a65.png" group-title="EVENTOS DEPORTIVOS",M.LA LIGA 2 HD
+http://6ura.top:8000/fj50/ST5hj6jmQK/1186
+#EXTINF:-1 tvg-id="M. LaLiga 3 HD" tvg-name="M.LA LIGA 3 HD" tvg-logo="https://orangetv.orange.es/pc/api/rtv/v1/images/IMAGES/O/x_2d75bda0835941ae86d09294d.png" group-title="EVENTOS DEPORTIVOS",M.LA LIGA 3 HD
+http://6ura.top:8000/fj50/ST5hj6jmQK/1187
+#EXTINF:-1 tvg-id="M. LaLiga 2" tvg-name="M.LALIGA 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG2.png" group-title="EVENTOS DEPORTIVOS",M.LALIGA 2
+http://6ura.top:8000/fj50/ST5hj6jmQK/941
+#EXTINF:-1 tvg-id="M. LaLiga 3" tvg-name="M.LALIGA 3" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG3.png" group-title="EVENTOS DEPORTIVOS",M.LALIGA 3
+http://6ura.top:8000/fj50/ST5hj6jmQK/46
+#EXTINF:-1 tvg-id="M. LaLiga 4" tvg-name="M.LALIGA 4" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG4.png" group-title="EVENTOS DEPORTIVOS",M.LALIGA 4
+http://6ura.top:8000/fj50/ST5hj6jmQK/126
+#EXTINF:-1 tvg-id="M. LaLiga 5" tvg-name="M.LALIGA 5" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG5.png" group-title="EVENTOS DEPORTIVOS",M.LALIGA 5
+http://6ura.top:8000/fj50/ST5hj6jmQK/47
+#EXTINF:-1 tvg-id="M. LaLiga 6" tvg-name="M.LALIGA 6" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG6.png" group-title="EVENTOS DEPORTIVOS",M.LALIGA 6
+http://6ura.top:8000/fj50/ST5hj6jmQK/48
+#EXTINF:-1 tvg-id="M. LaLiga 7" tvg-name="M.LALIGA 7" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG7.png" group-title="EVENTOS DEPORTIVOS",M.LALIGA 7
+http://6ura.top:8000/fj50/ST5hj6jmQK/49
+#EXTINF:-1 tvg-id="M. LaLiga 8" tvg-name="M.LALIGA 8" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG8.png" group-title="EVENTOS DEPORTIVOS",M.LALIGA 8
+http://6ura.top:8000/fj50/ST5hj6jmQK/612
+#EXTINF:-1 tvg-id="M. LaLiga 9" tvg-name="M.LALIGA 9" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG9.png" group-title="EVENTOS DEPORTIVOS",M.LALIGA 9
+http://6ura.top:8000/fj50/ST5hj6jmQK/613
+#EXTINF:-1 tvg-id="M. LaLiga 10" tvg-name="M.LALIGA 10" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG10.png" group-title="EVENTOS DEPORTIVOS",M.LALIGA 10
+http://6ura.top:8000/fj50/ST5hj6jmQK/616
+#EXTINF:-1 tvg-id="M.LCAMPEONES HD" tvg-name="MOVISTAR CAMPEONES HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="EVENTOS DEPORTIVOS",MOVISTAR CAMPEONES HD
+http://6ura.top:8000/fj50/ST5hj6jmQK/708
+#EXTINF:-1 tvg-id="M.LCAMPEON1" tvg-name="M.LCAMPEON 1 hd" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP1.png" group-title="EVENTOS DEPORTIVOS",M.LCAMPEON 1 hd
+http://6ura.top:8000/fj50/ST5hj6jmQK/128
+#EXTINF:-1 tvg-id="M.LCAMPEON2" tvg-name="M.LCAMPEON 2 hd" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP2.png" group-title="EVENTOS DEPORTIVOS",M.LCAMPEON 2 hd
+http://6ura.top:8000/fj50/ST5hj6jmQK/130
+#EXTINF:-1 tvg-id="M.LCAMPEON1" tvg-name="M.LCAMPEON 1" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP1.png" group-title="EVENTOS DEPORTIVOS",M.LCAMPEON 1
+http://6ura.top:8000/fj50/ST5hj6jmQK/67
+#EXTINF:-1 tvg-id="M.LCAMPEON2" tvg-name="M.LCAMPEON 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP2.png" group-title="EVENTOS DEPORTIVOS",M.LCAMPEON 2
+http://6ura.top:8000/fj50/ST5hj6jmQK/129
+#EXTINF:-1 tvg-id="M.LCAMPEON3" tvg-name="M.LCAMPEON 3" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP3.png" group-title="EVENTOS DEPORTIVOS",M.LCAMPEON 3
+http://6ura.top:8000/fj50/ST5hj6jmQK/68
+#EXTINF:-1 tvg-id="M.LCAMPEON4" tvg-name="M.LCAMPEON 4" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP4.png" group-title="EVENTOS DEPORTIVOS",M.LCAMPEON 4
+http://6ura.top:8000/fj50/ST5hj6jmQK/131
+#EXTINF:-1 tvg-id="M.LCAMPEON5" tvg-name="M.LCAMPEON 5" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP5.png" group-title="EVENTOS DEPORTIVOS",M.LCAMPEON 5
+http://6ura.top:8000/fj50/ST5hj6jmQK/69
+#EXTINF:-1 tvg-id="M.LCAMPEON6" tvg-name="M.LCAMPEON 6" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP6.png" group-title="EVENTOS DEPORTIVOS",M.LCAMPEON 6
+http://6ura.top:8000/fj50/ST5hj6jmQK/70
+#EXTINF:-1 tvg-id="M.LCAMPEON7" tvg-name="M.LCAMPEON 7" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP7.png" group-title="EVENTOS DEPORTIVOS",M.LCAMPEON 7
+http://6ura.top:8000/fj50/ST5hj6jmQK/71
+#EXTINF:-1 tvg-id="" tvg-name="M.CAMPEONES 8" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP8.png" group-title="EVENTOS DEPORTIVOS",M.CAMPEONES 8
+http://6ura.top:8000/fj50/ST5hj6jmQK/800
+#EXTINF:-1 tvg-id="M. DEPORTESHD" tvg-name="M. DEPORTES HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="EVENTOS DEPORTIVOS",M. DEPORTES HD
+http://6ura.top:8000/fj50/ST5hj6jmQK/31
+#EXTINF:-1 tvg-id="M. DEPORTES" tvg-name="M. DEPORTES" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="EVENTOS DEPORTIVOS",M. DEPORTES
+http://6ura.top:8000/fj50/ST5hj6jmQK/26
+#EXTINF:-1 tvg-id="M. DEPORTES1HD" tvg-name="M.DEPORTES 1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ARTHUR.png" group-title="EVENTOS DEPORTIVOS",M.DEPORTES 1 HD
+http://6ura.top:8000/fj50/ST5hj6jmQK/41
+#EXTINF:-1 tvg-id="M. DEPORTES1" tvg-name="M. DEPORTES 1" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ARTHUR.png" group-title="EVENTOS DEPORTIVOS",M. DEPORTES 1
+http://6ura.top:8000/fj50/ST5hj6jmQK/114
+#EXTINF:-1 tvg-id="M. DEPORTES2" tvg-name="M. DEPORTES2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/USOP2.png" group-title="EVENTOS DEPORTIVOS",M. DEPORTES2
+http://6ura.top:8000/fj50/ST5hj6jmQK/27
+#EXTINF:-1 tvg-id="M. DEPORTES3" tvg-name="M. DEPORTES 3" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/USOP3.png" group-title="EVENTOS DEPORTIVOS",M. DEPORTES 3
+http://6ura.top:8000/fj50/ST5hj6jmQK/28
+#EXTINF:-1 tvg-id="M. DEPORTES4" tvg-name="M. DEPORTES 4" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/USOP11.png" group-title="EVENTOS DEPORTIVOS",M. DEPORTES 4
+http://6ura.top:8000/fj50/ST5hj6jmQK/29
+#EXTINF:-1 tvg-id="M. DEPORTES5" tvg-name="M. DEPORTES 5" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MULTI8.png" group-title="EVENTOS DEPORTIVOS",M. DEPORTES 5
+http://6ura.top:8000/fj50/ST5hj6jmQK/30
+#EXTINF:-1 tvg-id="M. DEPORTES6" tvg-name="M. DEPORTES 6" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MULTI6.png" group-title="EVENTOS DEPORTIVOS",M. DEPORTES 6
+http://6ura.top:8000/fj50/ST5hj6jmQK/115
+#EXTINF:-1 tvg-id="M. DEPORTES7" tvg-name="M. DEPORTES7" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MULTI9.png" group-title="EVENTOS DEPORTIVOS",M. DEPORTES7
+http://6ura.top:8000/fj50/ST5hj6jmQK/116
+#EXTINF:-1 tvg-id="M. GOLF HD" tvg-name="M. GOLF HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOLF+.png" group-title="EVENTOS DEPORTIVOS",M. GOLF HD
+http://6ura.top:8000/fj50/ST5hj6jmQK/118
+#EXTINF:-1 tvg-id="M. GOLF" tvg-name="M. GOLF" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOLF+.png" group-title="EVENTOS DEPORTIVOS",M. GOLF
+http://6ura.top:8000/fj50/ST5hj6jmQK/35
+#EXTINF:-1 tvg-id="EUROSPORT1HD" tvg-name="EUROSPORT 1HD" tvg-logo="https://www.vodafone.es/c/microsite/1500009248080/img/581.png" group-title="EVENTOS DEPORTIVOS",EUROSPORT 1HD
+http://6ura.top:8000/fj50/ST5hj6jmQK/20
+#EXTINF:-1 tvg-id="EUROSPORT 1" tvg-name="EUROSPORT 1" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP.png" group-title="EVENTOS DEPORTIVOS",EUROSPORT 1
+http://6ura.top:8000/fj50/ST5hj6jmQK/19
+#EXTINF:-1 tvg-id="EUROSPORT 2" tvg-name="EUROSPORT 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP2.png" group-title="EVENTOS DEPORTIVOS",EUROSPORT 2
+http://6ura.top:8000/fj50/ST5hj6jmQK/97
+#EXTINF:-1 tvg-id="R. MADRID TV" tvg-name="R. MADRID TV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/REALM.png" group-title="EVENTOS DEPORTIVOS",R. MADRID TV
+http://6ura.top:8000/fj50/ST5hj6jmQK/141
+#EXTINF:-1 tvg-id="BARÇA TV" tvg-name="BARCA TV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BARNA.png" group-title="EVENTOS DEPORTIVOS",BARCA TV
+http://6ura.top:8000/fj50/ST5hj6jmQK/6
+#EXTINF:-1 tvg-id="GOL" tvg-name="GOL" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOL.png" group-title="EVENTOS DEPORTIVOS",GOL
+http://6ura.top:8000/fj50/ST5hj6jmQK/22
+#EXTINF:-1 tvg-id="TELEDEPORTE" tvg-name="TELEDEPORTE HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TDEP.png" group-title="EVENTOS DEPORTIVOS",TELEDEPORTE HD
+http://6ura.top:8000/fj50/ST5hj6jmQK/62
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUSICA" tvg-logo="https://i2.wp.com/telemusica.tv/wp-content/uploads/2021/02/co-telemusica-tv-8417.png" group-title="POP-ROCK-DANCE",TELEMUSICA
+http://6ura.top:8000/fj50/ST5hj6jmQK/1183
+#EXTINF:-1 tvg-id="MTV Hits" tvg-name="MTV 00S" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MTV_00s_remaster.png/150px-MTV_00s_remaster.png" group-title="POP-ROCK-DANCE",MTV 00S
+http://6ura.top:8000/fj50/ST5hj6jmQK/835
+#EXTINF:-1 tvg-id="" tvg-name="KRONE TV MUSIC" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/01/kronehit-100x70.png" group-title="POP-ROCK-DANCE",KRONE TV MUSIC
+http://6ura.top:8000/fj50/ST5hj6jmQK/266
+#EXTINF:-1 tvg-id="" tvg-name="RADIO CAPITAL" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/01/radio-capital-100x70.png" group-title="POP-ROCK-DANCE",RADIO CAPITAL
+http://6ura.top:8000/fj50/ST5hj6jmQK/267
+#EXTINF:-1 tvg-id="" tvg-name="DJ TV" tvg-logo="https://www.djtv.com.tr/wp-content/uploads/2020/03/DJTV-150x150.png" group-title="POP-ROCK-DANCE",DJ TV
+http://6ura.top:8000/fj50/ST5hj6jmQK/791
+#EXTINF:-1 tvg-id="" tvg-name="POWER HD" tvg-logo="https://www.radiopower.com.ar/powerhd/webroot/img/logoPwrHD_small.png" group-title="POP-ROCK-DANCE",POWER HD
+http://6ura.top:8000/fj50/ST5hj6jmQK/1287
+#EXTINF:-1 tvg-id="" tvg-name="PORTAL FOX MIX" tvg-logo="http://www.portalfoxmix.cl/web/wp-content/uploads/2016/03/logoPFM.png" group-title="POP-ROCK-DANCE",PORTAL FOX MIX
+http://6ura.top:8000/fj50/ST5hj6jmQK/1288
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC TOP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Musictop_logo_2016.png" group-title="POP-ROCK-DANCE",MUSIC TOP
+http://6ura.top:8000/fj50/ST5hj6jmQK/1291
+#EXTINF:-1 tvg-id="" tvg-name="Sightless (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/leCkJsZbQDULb0x5EocYs0JEloF.jpg" group-title="VIDEOCLUB",Sightless (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1013.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Una nueva vida (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yAwoDmcLFuZxg5bHzYgRexYhykm.jpg" group-title="VIDEOCLUB",Una nueva vida (2017)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1174.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Crescendo (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Pvun0QCSjVHsAQs9bsZTpuZ16C.jpg" group-title="VIDEOCLUB",Crescendo (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1214.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Fixies contra los Crabots (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nYMLgryWifP0Zmk7zKeaVOUcuKV.jpg" group-title="VIDEOCLUB",Los Fixies contra los Crabots (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1258.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mas locos que una cabra (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bpW9lrpPGV9FeIk1AjxnhUY6g58.jpg" group-title="VIDEOCLUB",Mas locos que una cabra (2021)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1259.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Vidas de papel (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ozYkQIGsR7kPbu1yzjC7P3ph6vT.jpg" group-title="VIDEOCLUB",Vidas de papel (2021)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1267.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El silencio de los espías (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xUK3SWJ9OTlohepMHaoR4r8K5AA.jpg" group-title="VIDEOCLUB",El silencio de los espías (2021)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1313.avi
+#EXTINF:-1 tvg-id="" tvg-name="Estados Unidos: La Película (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dOheGvNG4lIGA4NSBcSxuYpaLiX.jpg" group-title="VIDEOCLUB",Estados Unidos: La Película (2021)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1314.avi
+#EXTINF:-1 tvg-id="" tvg-name="La guerra del mañana (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tzp6VzED2TBc02bkYoYnQa6r2OK.jpg" group-title="VIDEOCLUB",La guerra del mañana (2021)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1315.avi
+#EXTINF:-1 tvg-id="" tvg-name="Los colores del amor (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jMsJanDCFJLPloxURLPOSMOTPT8.jpg" group-title="VIDEOCLUB",Los colores del amor (2021)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1316.avi
+#EXTINF:-1 tvg-id="" tvg-name="Horario Estelar (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yWlb4vtjUYabK9hqigW0hqdVMtE.jpg" group-title="VIDEOCLUB",Horario Estelar (2021)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1317.avi
+#EXTINF:-1 tvg-id="" tvg-name="Últimas noticias en Yuba County (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2GQ3k3KmG0LI8Z4uCcGAsGQn6Ky.jpg" group-title="VIDEOCLUB",Últimas noticias en Yuba County (2021)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1318.avi
+#EXTINF:-1 tvg-id="" tvg-name="El dragón de los deseos (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uBSOVabHjh9vbfnA6B2u1C7vIq1.jpg" group-title="VIDEOCLUB",El dragón de los deseos (2021)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1319.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fast & Furious 9 (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aIyqWTuf6NouKphVlxzbv9pblxQ.jpg" group-title="VIDEOCLUB",Fast & Furious 9 (2021)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1333.mkv
+#EXTINF:-1 tvg-id="" tvg-name="ACTIVA FM" tvg-logo="https://i1.wp.com/www.emisorasmusicales.net/wp-content/uploads/2020/03/ActivaFM.png?fit=1000%2C1000&ssl=1" group-title="RADIO",ACTIVA FM
+http://6ura.top:8000/fj50/ST5hj6jmQK/300
+#EXTINF:-1 tvg-id="" tvg-name="LA MUY BUENA" tvg-logo="https://i2.wp.com/www.emisorasmusicales.net/wp-content/uploads/2020/03/MuyBuena.png?fit=1000%2C1000&ssl=1" group-title="RADIO",LA MUY BUENA
+http://6ura.top:8000/fj50/ST5hj6jmQK/301
+#EXTINF:-1 tvg-id="" tvg-name="BIKINI FM" tvg-logo="https://i2.wp.com/www.emisorasmusicales.net/wp-content/uploads/2020/03/BikiniFM.png?fit=1000%2C1000&ssl=1" group-title="RADIO",BIKINI FM
+http://6ura.top:8000/fj50/ST5hj6jmQK/302
+#EXTINF:-1 tvg-id="" tvg-name="LA MEGA" tvg-logo="https://i1.wp.com/www.emisorasmusicales.net/wp-content/uploads/2020/03/LaMega.png?fit=1000%2C1000&ssl=1" group-title="RADIO",LA MEGA
+http://6ura.top:8000/fj50/ST5hj6jmQK/303
+#EXTINF:-1 tvg-id="" tvg-name="LA QUE SUENA" tvg-logo="https://i1.wp.com/www.emisorasmusicales.net/wp-content/uploads/2020/03/laquesuena.png?fit=1000%2C1000&ssl=1" group-title="RADIO",LA QUE SUENA
+http://6ura.top:8000/fj50/ST5hj6jmQK/304
+#EXTINF:-1 tvg-id="" tvg-name="LA FLAMENCA FM" tvg-logo="https://i2.wp.com/www.emisorasmusicales.net/wp-content/uploads/2020/03/LaFlamenca.png?fit=1000%2C1000&ssl=1" group-title="RADIO",LA FLAMENCA FM
+http://6ura.top:8000/fj50/ST5hj6jmQK/305
+#EXTINF:-1 tvg-id="" tvg-name="LOS 40 PRINCIPALES" tvg-logo="https://static.radio.es/images/broadcasts/4c/ce/10732/1/c44.png" group-title="RADIO",LOS 40 PRINCIPALES
+http://6ura.top:8000/fj50/ST5hj6jmQK/306
+#EXTINF:-1 tvg-id="" tvg-name="CADENA DIAL " tvg-logo="https://static.radio.es/images/broadcasts/f6/4c/10876/c44.png" group-title="RADIO",CADENA DIAL 
+http://6ura.top:8000/fj50/ST5hj6jmQK/307
+#EXTINF:-1 tvg-id="" tvg-name="RADIO OLE" tvg-logo="https://play.radiole.com/build/assets/radioleespana/img/logo.png" group-title="RADIO",RADIO OLE
+http://6ura.top:8000/fj50/ST5hj6jmQK/308
+#EXTINF:-1 tvg-id="" tvg-name="EUROPA FM" tvg-logo="https://static.europafm.com/img/logo_EuropaFM_2.png" group-title="RADIO",EUROPA FM
+http://6ura.top:8000/fj50/ST5hj6jmQK/309
+#EXTINF:-1 tvg-id="" tvg-name="ESENCIA FM" tvg-logo="https://i0.wp.com/www.emisorasmusicales.net/wp-content/uploads/2020/03/EsenciaFM.png?fit=1000%2C1000&ssl=1" group-title="RADIO",ESENCIA FM
+http://6ura.top:8000/fj50/ST5hj6jmQK/401
+#EXTINF:-1 tvg-id="" tvg-name="MOTIVA FM" tvg-logo="https://i2.wp.com/www.emisorasmusicales.net/wp-content/uploads/2020/04/motiva.png?fit=1000%2C1000&ssl=1" group-title="RADIO",MOTIVA FM
+http://6ura.top:8000/fj50/ST5hj6jmQK/402
+#EXTINF:-1 tvg-id="" tvg-name="LA INDIE FM" tvg-logo="https://i2.wp.com/www.emisorasmusicales.net/wp-content/uploads/2020/04/LA-INDIE.png?fit=1000%2C1000&ssl=1" group-title="RADIO",LA INDIE FM
+http://6ura.top:8000/fj50/ST5hj6jmQK/403
+#EXTINF:-1 tvg-id="" tvg-name="GOLD FM" tvg-logo="https://i2.wp.com/www.emisorasmusicales.net/wp-content/uploads/2020/03/goldFM.png?fit=1000%2C1000&ssl=1" group-title="RADIO",GOLD FM
+http://6ura.top:8000/fj50/ST5hj6jmQK/404
+#EXTINF:-1 tvg-id="" tvg-name="ROCK STAR" tvg-logo="https://i0.wp.com/www.emisorasmusicales.net/wp-content/uploads/2020/03/Rockstar.png?fit=1000%2C1000&ssl=1" group-title="RADIO",ROCK STAR
+http://6ura.top:8000/fj50/ST5hj6jmQK/405
+#EXTINF:-1 tvg-id="" tvg-name="+ACTIVA" tvg-logo="https://i1.wp.com/www.emisorasmusicales.net/inc/uploads/2020/05/mas-activa-e1590581441943.png?resize=100%2C100&ssl=1" group-title="RADIO",+ACTIVA
+http://6ura.top:8000/fj50/ST5hj6jmQK/552
+#EXTINF:-1 tvg-id="" tvg-name="HIT FM" tvg-logo="https://www.hitfm.es/wp-content/uploads/2019/06/Logo_HIT_Home-1.png" group-title="RADIO",HIT FM
+http://6ura.top:8000/fj50/ST5hj6jmQK/665
+#EXTINF:-1 tvg-id="" tvg-name="BIKINI EXTREME" tvg-logo="https://i2.wp.com/www.emisorasmusicales.net/inc/uploads/2020/07/BikiniExtreme-e1599473749780.png" group-title="RADIO",BIKINI EXTREME
+http://6ura.top:8000/fj50/ST5hj6jmQK/754
+#EXTINF:-1 tvg-id="" tvg-name="LOS 40 URBAN" tvg-logo="https://los40es00.epimg.net/iconos/v3.x/v1.0/cabeceras/logo_40_urban.png" group-title="RADIO",LOS 40 URBAN
+http://6ura.top:8000/fj50/ST5hj6jmQK/954
+#EXTINF:-1 tvg-id="" tvg-name="CANAL FIESTA RADIO" tvg-logo="https://www.canalsur.es/resources/graficos_directos/logofiesta.png" group-title="RADIO",CANAL FIESTA RADIO
+http://6ura.top:8000/fj50/ST5hj6jmQK/955
+#EXTINF:-1 tvg-id="" tvg-name="XTRA FM" tvg-logo="https://play.xtrahits.es/tmp/images/logo.1589671161.png" group-title="RADIO",XTRA FM
+http://6ura.top:8000/fj50/ST5hj6jmQK/1034
+#EXTINF:-1 tvg-id="" tvg-name="ADULTOS 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Australian_Classification_Restricted_18%2B_%28X_18%2B%29.svg/800px-Australian_Classification_Restricted_18%2B_%28X_18%2B%29.svg.png" group-title="CINE  +18",ADULTOS 6
+http://6ura.top:8000/fj50/ST5hj6jmQK/1127
+#EXTINF:-1 tvg-id="" tvg-name="ADULTOS 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Australian_Classification_Restricted_18%2B_%28X_18%2B%29.svg/800px-Australian_Classification_Restricted_18%2B_%28X_18%2B%29.svg.png" group-title="CINE  +18",ADULTOS 5
+http://6ura.top:8000/fj50/ST5hj6jmQK/1230
+#EXTINF:-1 tvg-id="" tvg-name="ADULTOS 8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Australian_Classification_Restricted_18%2B_%28X_18%2B%29.svg/800px-Australian_Classification_Restricted_18%2B_%28X_18%2B%29.svg.png" group-title="CINE  +18",ADULTOS 8
+http://6ura.top:8000/fj50/ST5hj6jmQK/1125
+#EXTINF:-1 tvg-id="" tvg-name="ADULTOS 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Australian_Classification_Restricted_18%2B_%28X_18%2B%29.svg/800px-Australian_Classification_Restricted_18%2B_%28X_18%2B%29.svg.png" group-title="CINE  +18",ADULTOS 4
+http://6ura.top:8000/fj50/ST5hj6jmQK/1231
+#EXTINF:-1 tvg-id="" tvg-name="ADULTOS 15" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Australian_Classification_Restricted_18%2B_%28X_18%2B%29.svg/800px-Australian_Classification_Restricted_18%2B_%28X_18%2B%29.svg.png" group-title="CINE  +18",ADULTOS 15
+http://6ura.top:8000/fj50/ST5hj6jmQK/239
+#EXTINF:-1 tvg-id="" tvg-name="ADULTOS 12" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Australian_Classification_Restricted_18%2B_%28X_18%2B%29.svg/800px-Australian_Classification_Restricted_18%2B_%28X_18%2B%29.svg.png" group-title="CINE  +18",ADULTOS 12
+http://6ura.top:8000/fj50/ST5hj6jmQK/313
+#EXTINF:-1 tvg-id="" tvg-name="ADULTOS 18" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Australian_Classification_Restricted_18%2B_%28X_18%2B%29.svg/800px-Australian_Classification_Restricted_18%2B_%28X_18%2B%29.svg.png" group-title="CINE  +18",ADULTOS 18
+http://6ura.top:8000/fj50/ST5hj6jmQK/220
+#EXTINF:-1 tvg-id="" tvg-name="ADULTOS 16" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Australian_Classification_Restricted_18%2B_%28X_18%2B%29.svg/800px-Australian_Classification_Restricted_18%2B_%28X_18%2B%29.svg.png" group-title="CINE  +18",ADULTOS 16
+http://6ura.top:8000/fj50/ST5hj6jmQK/230
+#EXTINF:-1 tvg-id="" tvg-name="ADULTOS 17" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Australian_Classification_Restricted_18%2B_%28X_18%2B%29.svg/800px-Australian_Classification_Restricted_18%2B_%28X_18%2B%29.svg.png" group-title="CINE  +18",ADULTOS 17
+http://6ura.top:8000/fj50/ST5hj6jmQK/222
+#EXTINF:-1 tvg-id="" tvg-name="ADULTOS 13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Australian_Classification_Restricted_18%2B_%28X_18%2B%29.svg/800px-Australian_Classification_Restricted_18%2B_%28X_18%2B%29.svg.png" group-title="CINE  +18",ADULTOS 13
+http://6ura.top:8000/fj50/ST5hj6jmQK/249
+#EXTINF:-1 tvg-id="PLAYBOY TV" tvg-name="ADULTOS 19" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Australian_Classification_Restricted_18%2B_%28X_18%2B%29.svg/800px-Australian_Classification_Restricted_18%2B_%28X_18%2B%29.svg.png" group-title="CINE  +18",ADULTOS 19
+http://6ura.top:8000/fj50/ST5hj6jmQK/56
+#EXTINF:-1 tvg-id="" tvg-name="ADULTOS 14" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Australian_Classification_Restricted_18%2B_%28X_18%2B%29.svg/800px-Australian_Classification_Restricted_18%2B_%28X_18%2B%29.svg.png" group-title="CINE  +18",ADULTOS 14
+http://6ura.top:8000/fj50/ST5hj6jmQK/244
+#EXTINF:-1 tvg-id="" tvg-name="ADULTOS 11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Australian_Classification_Restricted_18%2B_%28X_18%2B%29.svg/800px-Australian_Classification_Restricted_18%2B_%28X_18%2B%29.svg.png" group-title="CINE  +18",ADULTOS 11
+http://6ura.top:8000/fj50/ST5hj6jmQK/838
+#EXTINF:-1 tvg-id="" tvg-name="ADULTOS 10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Australian_Classification_Restricted_18%2B_%28X_18%2B%29.svg/800px-Australian_Classification_Restricted_18%2B_%28X_18%2B%29.svg.png" group-title="CINE  +18",ADULTOS 10
+http://6ura.top:8000/fj50/ST5hj6jmQK/1122
+#EXTINF:-1 tvg-id="" tvg-name="ADULTOS 9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Australian_Classification_Restricted_18%2B_%28X_18%2B%29.svg/800px-Australian_Classification_Restricted_18%2B_%28X_18%2B%29.svg.png" group-title="CINE  +18",ADULTOS 9
+http://6ura.top:8000/fj50/ST5hj6jmQK/1124
+#EXTINF:-1 tvg-id="" tvg-name="ADULTOS 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Australian_Classification_Restricted_18%2B_%28X_18%2B%29.svg/800px-Australian_Classification_Restricted_18%2B_%28X_18%2B%29.svg.png" group-title="CINE  +18",ADULTOS 7
+http://6ura.top:8000/fj50/ST5hj6jmQK/1126
+#EXTINF:-1 tvg-id="" tvg-name="ADULTOS 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Australian_Classification_Restricted_18%2B_%28X_18%2B%29.svg/800px-Australian_Classification_Restricted_18%2B_%28X_18%2B%29.svg.png" group-title="CINE  +18",ADULTOS 3
+http://6ura.top:8000/fj50/ST5hj6jmQK/1299
+#EXTINF:-1 tvg-id="" tvg-name="ADULTOS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Australian_Classification_Restricted_18%2B_%28X_18%2B%29.svg/800px-Australian_Classification_Restricted_18%2B_%28X_18%2B%29.svg.png" group-title="CINE  +18",ADULTOS 2
+http://6ura.top:8000/fj50/ST5hj6jmQK/1300
+#EXTINF:-1 tvg-id="" tvg-name="ADULTOS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Australian_Classification_Restricted_18%2B_%28X_18%2B%29.svg/800px-Australian_Classification_Restricted_18%2B_%28X_18%2B%29.svg.png" group-title="CINE  +18",ADULTOS 1
+http://6ura.top:8000/fj50/ST5hj6jmQK/1301
+#EXTINF:-1 tvg-id="" tvg-name="El sumiller (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zc3j4vsBXtt1HAHMIAGpAIHS6jW.jpg" group-title="VIDEOCLUB",El sumiller (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/147.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bloodshot (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qdwpe2rk2xJ0MwO64ouVTNOyTzD.jpg" group-title="VIDEOCLUB",Bloodshot (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/149.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Le Mans '66 (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kFkZFPBU7vnDDu4m9eOgk7w9W7O.jpg" group-title="VIDEOCLUB",Le Mans '66 (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/150.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Géminis (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gJpbw3pVCAKksp1LgsTGW7c8SFV.jpg" group-title="VIDEOCLUB",Géminis (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/151.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jay y Bob el silencioso: el reboot (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jUZxdGtU6BDgvQQDScaawvm7EhI.jpg" group-title="VIDEOCLUB",Jay y Bob el silencioso: el reboot (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/152.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Puñales por la espalda (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7scJ3fVmwdSpGG87wvxH3kk0RPc.jpg" group-title="VIDEOCLUB",Puñales por la espalda (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/153.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Midway (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cwjJOG2LLj19pPgTOFcegUP1OtD.jpg" group-title="VIDEOCLUB",Midway (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/154.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Stargirl (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9yXQF4cNjLlP06r4UCEShpEXvmb.jpg" group-title="VIDEOCLUB",Stargirl (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/155.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El banquero (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sxV1aV1ca2gKLnEoNdzaeySmgU.jpg" group-title="VIDEOCLUB",El banquero (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/156.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La cocina del infierno (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l3smhHvnczXg8E2WzysRVKIXSYJ.jpg" group-title="VIDEOCLUB",La cocina del infierno (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/157.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los ángeles de Charlie (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/egCHwgAZ5UWkQl6HI0Ih8u9QulF.jpg" group-title="VIDEOCLUB",Los ángeles de Charlie (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/158.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Togo (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wX0QD36a80hxulcizz7tyahYOF8.jpg" group-title="VIDEOCLUB",Togo (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/159.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Padre no hay más que uno (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eDLO2nr5xhjOfxDAj3gQao495kw.jpg" group-title="VIDEOCLUB",Padre no hay más que uno (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/160.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Dama y el Vagabundo (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ujgFJJu9t4Wx9O573X43eyqWhvC.jpg" group-title="VIDEOCLUB",La Dama y el Vagabundo (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/161.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rambo: Last Blood (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ajfGtf3LQk7GFcWvGbpsN6ZmVqe.jpg" group-title="VIDEOCLUB",Rambo: Last Blood (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/162.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Spenser: confidencial (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z7lkcv6meB7ueTz3iFFhsmcnEey.jpg" group-title="VIDEOCLUB",Spenser: confidencial (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/163.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Terra Willy: Planeta desconocido (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jDZZl36lkxRqrLfpQRsEr2MP5Bq.jpg" group-title="VIDEOCLUB",Terra Willy: Planeta desconocido (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/164.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Frozen 2 (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jnFCk7qGGWop2DgfnJXeKLZFuBq.jpg" group-title="VIDEOCLUB",Frozen 2 (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/165.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mientras dure la guerra (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3FjfGLlanl6fhdJCapZ75pYURSK.jpg" group-title="VIDEOCLUB",Mientras dure la guerra (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/166.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Traición (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fkjZy0YxNIGJ1VhVevbLzr2co6r.jpg" group-title="VIDEOCLUB",A Traición (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/169.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Objetivo: Washington D.C. (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zC8HSq4xWsPgPDjgmlFix4VMtaD.jpg" group-title="VIDEOCLUB",Objetivo: Washington D.C. (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/171.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Anna (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eLBq1ANzAHgVfQSK6urU0HaTGPS.jpg" group-title="VIDEOCLUB",Anna (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/172.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dolor y gloria (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2kg9rw0qVT0YCtUFXopcJsnDHAK.jpg" group-title="VIDEOCLUB",Dolor y gloria (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/173.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Maléfica: Maestra del mal (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eZOkXqHXWCKytd78TggAtJ0M3gU.jpg" group-title="VIDEOCLUB",Maléfica: Maestra del mal (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/174.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jugando con fuego (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cMNiuu6Qcx7YdCRIdmia164AmV1.jpg" group-title="VIDEOCLUB",Jugando con fuego (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/175.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Quien a hierro mata (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/djD9yTxKNlxLKRWHsHYfMZa0XaU.jpg" group-title="VIDEOCLUB",Quien a hierro mata (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/176.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Richard Jewell (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tJk9XOP51vG4PNWMFfcFW29Lsel.jpg" group-title="VIDEOCLUB",Richard Jewell (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/177.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Terminator: Destino oscuro (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k7PuHoj2oE7nEHExwliF2FSXFnr.jpg" group-title="VIDEOCLUB",Terminator: Destino oscuro (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/178.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Jilguero (The Goldfinch) (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ij1QcacsPGq0Cvc3l73YTCmNFjc.jpg" group-title="VIDEOCLUB",El Jilguero (The Goldfinch) (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/179.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Diamantes en bruto (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ek3NThY7R8OysOuKZrEy7CRl1co.jpg" group-title="VIDEOCLUB",Diamantes en bruto (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/180.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Zombieland: Mata y remata (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mIUGQ89isLNj4IRujDsXrZFIZCQ.jpg" group-title="VIDEOCLUB",Zombieland: Mata y remata (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/181.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Hobbit: Un viaje inesperado (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mIUGQ89isLNj4IRujDsXrZFIZCQ.jpg" group-title="VIDEOCLUB",El Hobbit: Un viaje inesperado (2012)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/182.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Hobbit: La desolación de Smaug (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t2UCmHv8YRC4cJFg3rLTu4ZbNNU.jpg" group-title="VIDEOCLUB",El Hobbit: La desolación de Smaug (2013)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/183.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Hobbit: La batalla de los cinco ejércitos (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6OiNSLcRKJsBLXwb6DEi6IQ0JFk.jpg" group-title="VIDEOCLUB",El Hobbit: La batalla de los cinco ejércitos (2014)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/184.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Guns Akimbo (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/luZH1jlEYtEaRUmDvc88mV6PlGO.jpg" group-title="VIDEOCLUB",Guns Akimbo (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/251.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A todos los chicos: P.D. Todavía te quiero (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eoCZ84UK0E3X7ru4VAE2ept88zl.jpg" group-title="VIDEOCLUB",A todos los chicos: P.D. Todavía te quiero (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/252.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El hoyo (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qv30R1uDDKTLWDlNc3qi6MRdRf0.jpg" group-title="VIDEOCLUB",El hoyo (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/253.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jumanji: Siguiente nivel (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b1bTpxh0lRfw7kwRrWPeMOo7jbY.jpg" group-title="VIDEOCLUB",Jumanji: Siguiente nivel (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/254.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bad Boys for Life (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hIX9L34Zq6TMr81LhKMMZHYJYJ5.jpg" group-title="VIDEOCLUB",Bad Boys for Life (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/298.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sonic: La Película (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A7hhUj9Fq6E6FhGsENJTCmnCmt4.jpg" group-title="VIDEOCLUB",Sonic: La Película (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/299.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Huérfanos de Brooklyn (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2X86f3KRbdStQXk0f8pZovSRpal.jpg" group-title="VIDEOCLUB",Huérfanos de Brooklyn (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/310.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Código 8 (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vjBHg4HahEhnqE6kKVjMBhO9h15.jpg" group-title="VIDEOCLUB",Código 8 (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/325.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hasta que la boda nos separe (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bkz7ZoqJMFziqF8yQzkmfMRUEG.jpg" group-title="VIDEOCLUB",Hasta que la boda nos separe (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/326.avi
+#EXTINF:-1 tvg-id="" tvg-name="Mad World (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tUv3bzjaDiWICUYrDWo7uXmbAQX.jpg" group-title="VIDEOCLUB",Mad World (2018)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/327.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Madre (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j8wRmze5yJ9uN9zrvXpx9ZcfoO2.jpg" group-title="VIDEOCLUB",Madre (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/328.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tooth Fairy (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7uA6nSvazBeSKSDEgurpHXgmxLZ.jpg" group-title="VIDEOCLUB",Tooth Fairy (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/329.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Estafadoras de Wall Street (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zd7qy3xee9mgB0LbH4yUQt5BAE4.jpg" group-title="VIDEOCLUB",Estafadoras de Wall Street (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/345.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Superman: Hijo Rojo (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p55DBjjWnU421XqEDQhnP512UiK.jpg" group-title="VIDEOCLUB",Superman: Hijo Rojo (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/346.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Legado en los huesos (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r9t2himGKFSKWjjUdpRLFQkafj7.jpg" group-title="VIDEOCLUB",Legado en los huesos (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/358.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Circus of Books (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xnoFxpomzoJuqSB7dI3PYTWDzeL.jpg" group-title="VIDEOCLUB",Circus of Books (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/360.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El silencio del pantano (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zf24upUhFXwExeE8mxHY69Y9Qo0.jpg" group-title="VIDEOCLUB",El silencio del pantano (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/361.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La audición (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cXfrddIprlSVUJkID1dmrfoB6ST.jpg" group-title="VIDEOCLUB",La audición (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/362.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Las plagas de Breslavia (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l8liJJDKzUC96dDpyIbNl71oubw.jpg" group-title="VIDEOCLUB",Las plagas de Breslavia (2018)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/363.avi
+#EXTINF:-1 tvg-id="" tvg-name="Los hermanos Willoughby (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v1W9uSS3W7oil0Lo9QUJesey0i5.jpg" group-title="VIDEOCLUB",Los hermanos Willoughby (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/364.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tyler Rake (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uubv76DRXyOOhsKb0JggI0xzxEn.jpg" group-title="VIDEOCLUB",Tyler Rake (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/365.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Viking Blood (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dkUxVISgn7eSX19JWoe5d35HW7u.jpg" group-title="VIDEOCLUB",Viking Blood (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/366.mkv
+#EXTINF:-1 tvg-id="" tvg-name="1917 (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/axdhbcZeOsfX3ZpwtgdgPIjc06l.jpg" group-title="VIDEOCLUB",1917 (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/367.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los niños del mar (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sJWGbJYzRj4WzU6EfG1vhFXg6kR.jpg" group-title="VIDEOCLUB",Los niños del mar (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/368.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Coffee & Kareem (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jFzPMOJrjZfwCxllm3IIEKN7ceF.jpg" group-title="VIDEOCLUB",Coffee & Kareem (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/375.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Adiós (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A1pSmpQOexCjUQokW3JK4KSe9I7.jpg" group-title="VIDEOCLUB",Adiós (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/381.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La maldición (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b69Yq55yq2VD48MfslFBHJYUKZl.jpg" group-title="VIDEOCLUB",La maldición (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/449.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Gallina Turuleca (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kJ6t4RH4m5ly1xaf5uFMKdqE1vF.jpg" group-title="VIDEOCLUB",La Gallina Turuleca (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/450.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jojo Rabbit (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m5S9XtXSfSZg0G6ulZHQuzSF6DH.jpg" group-title="VIDEOCLUB",Jojo Rabbit (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/451.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Batman vs. las Tortugas Ninja (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wgBBB3Auky610UPhWdb0hBnwQzM.jpg" group-title="VIDEOCLUB",Batman vs. las Tortugas Ninja (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/452.avi
+#EXTINF:-1 tvg-id="" tvg-name="Skin (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ryH8Noh6VKE4L42yhpR5jqIGsF.jpg" group-title="VIDEOCLUB",Skin (2018)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/453.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La llamada de lo salvaje (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2KlzkeqqmXaDdXo7D6pq7qQLJoM.jpg" group-title="VIDEOCLUB",La llamada de lo salvaje (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/463.avi
+#EXTINF:-1 tvg-id="" tvg-name="Escuadrón de la muerte (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Eab3ET5fVKpk4qEZfwfOCv1lj1.jpg" group-title="VIDEOCLUB",Escuadrón de la muerte (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/464.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El captor (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fbvl0tDD3TgktoBZ8j8PKAv49OH.jpg" group-title="VIDEOCLUB",El captor (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/465.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Blue Story (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wUggWBMN8xUNVasYsroyUUPmaKa.jpg" group-title="VIDEOCLUB",Blue Story (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/466.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Noelle (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ljxeeVQJra8O4slFsmmnf5NgFx4.jpg" group-title="VIDEOCLUB",Noelle (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/475.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Otra Missy (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5MQScaFf8Uu8Hj9omCQju4KsWAA.jpg" group-title="VIDEOCLUB",La Otra Missy (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/476.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Te quiero, imbécil (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ceKh9Qd00EZg5uT2OnLOskL94kr.jpg" group-title="VIDEOCLUB",Te quiero, imbécil (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/477.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Enterrados (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e8Hb4g3TEPFySwq5iao2IuUbEdb.jpg" group-title="VIDEOCLUB",Enterrados (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/479.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cerca del horizonte (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1n6ncxd0Jf0MkW5xQPlfio3H0yH.jpg" group-title="VIDEOCLUB",Cerca del horizonte (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/480.avi
+#EXTINF:-1 tvg-id="" tvg-name="Cats (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8RDypqhDAcYPy7BOPrnYOQ6aVw9.jpg" group-title="VIDEOCLUB",Cats (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/481.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cartas a Roxane (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gNgoOz7aceNllJnXpZ7H9ttUytb.jpg" group-title="VIDEOCLUB",Cartas a Roxane (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/482.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sin filtro (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d0UzwxaS3QGEYhXPOBfnHELP8qn.jpg" group-title="VIDEOCLUB",Sin filtro (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/483.avi
+#EXTINF:-1 tvg-id="" tvg-name="Parking (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tNW1aT9qyzNr1rFdcVHsJZ5ojx9.jpg" group-title="VIDEOCLUB",Parking (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/484.avi
+#EXTINF:-1 tvg-id="" tvg-name="Moira (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ilD4WUJjBEz4XXydu6QSJhY6EE.jpg" group-title="VIDEOCLUB",Moira (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/485.avi
+#EXTINF:-1 tvg-id="" tvg-name="Lucha de clases (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mNjRUxyxoY8e7csof9bENqru0sD.jpg" group-title="VIDEOCLUB",Lucha de clases (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/486.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La rusa (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/swmYG6LZcZHTEdG8oknwlzbngIf.jpg" group-title="VIDEOCLUB",La rusa (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/487.avi
+#EXTINF:-1 tvg-id="" tvg-name="La isla de las mentiras (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ibuTh5t9Ex4wpZm5LJDBXf9EtgB.jpg" group-title="VIDEOCLUB",La isla de las mentiras (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/488.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bajo la misma piel (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iUZYCHcoXkggl32Eup0eZUz2qGp.jpg" group-title="VIDEOCLUB",Bajo la misma piel (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/530.avi
+#EXTINF:-1 tvg-id="" tvg-name="Casanova, su último amor (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k5M7kEwKItO5FmyPfWEtX9rohQZ.jpg" group-title="VIDEOCLUB",Casanova, su último amor (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/531.avi
+#EXTINF:-1 tvg-id="" tvg-name="El escándalo (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h7F3E54nG9p2CUBFB1LWM1TaHz6.jpg" group-title="VIDEOCLUB",El escándalo (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/532.avi
+#EXTINF:-1 tvg-id="" tvg-name="El vuelo del halcon (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wnDtyazgMxAeKnyBji5z9iaX3fQ.jpg" group-title="VIDEOCLUB",El vuelo del halcon (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/533.avi
+#EXTINF:-1 tvg-id="" tvg-name="Fantasy Island (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y0ZX1ymtnZ4ATsQJjXTPaG9RdWD.jpg" group-title="VIDEOCLUB",Fantasy Island (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/534.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Intrigo: Samaria (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fiGY0ZVl2lpM0JkHgBJLUhmRPfd.jpg" group-title="VIDEOCLUB",Intrigo: Samaria (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/535.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La casa de verano (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hOL72jmm52xmTNI30seQIV1Plnn.jpg" group-title="VIDEOCLUB",La casa de verano (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/536.avi
+#EXTINF:-1 tvg-id="" tvg-name="La nueva vida de Britt-Marie (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gaO32eUL5afgRatlwavssNPU2zN.jpg" group-title="VIDEOCLUB",La nueva vida de Britt-Marie (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/537.avi
+#EXTINF:-1 tvg-id="" tvg-name="Los últimos días del crimen (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g8HBoXNY6yQ8uOYA1drGs24ZlGo.jpg" group-title="VIDEOCLUB",Los últimos días del crimen (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/538.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Lucy in the Sky (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qqYEiEbwAlif3k954uTS92UqUQz.jpg" group-title="VIDEOCLUB",Lucy in the Sky (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/539.avi
+#EXTINF:-1 tvg-id="" tvg-name="Shadow Wolves (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Uf76RQQGICFq1xjJ1hn7IEYqnN.jpg" group-title="VIDEOCLUB",Shadow Wolves (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/540.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Volando juntos (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n3qaG9b38T7dS3ng7QuqsznTj6V.jpg" group-title="VIDEOCLUB",Volando juntos (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/544.avi
+#EXTINF:-1 tvg-id="" tvg-name="Mara (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rENBUXn22af18NkTkchHtoCWuIq.jpg" group-title="VIDEOCLUB",Mara (2018)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/545.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sordo (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x14J1zwAKpjng61bGlqz5egS3Yg.jpg" group-title="VIDEOCLUB",Sordo (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/546.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sigue el ritmo (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wXBxd34dFEx6Wruf5Ch5jKLBxDi.jpg" group-title="VIDEOCLUB",Sigue el ritmo (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/564.avi
+#EXTINF:-1 tvg-id="" tvg-name="Pirañas: Los niños de la Camorra (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eOKibJTYcc4OAlqpT6GfzViB1Wl.jpg" group-title="VIDEOCLUB",Pirañas: Los niños de la Camorra (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/565.avi
+#EXTINF:-1 tvg-id="" tvg-name="La bala perdida (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/81MUPSLVPkCKmfN3HFiDq5WK7qM.jpg" group-title="VIDEOCLUB",La bala perdida (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/566.avi
+#EXTINF:-1 tvg-id="" tvg-name="El plan (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7WU3ACz95EOi6QUph0zKy3dbvAs.jpg" group-title="VIDEOCLUB",El plan (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/567.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cuando tu quieras (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lhwaxDeOCwJwMV78FKxH2fn3Z0l.jpg" group-title="VIDEOCLUB",Cuando tu quieras (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/568.avi
+#EXTINF:-1 tvg-id="" tvg-name="7500: Avión secuestrado (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nrW048JoWofimI5AKXDTBzvxqRr.jpg" group-title="VIDEOCLUB",7500: Avión secuestrado (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/569.avi
+#EXTINF:-1 tvg-id="" tvg-name="La famosa invasión de los osos en Sicilia (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kklAMksL4jGLHBR1VeW8q3OkCGx.jpg" group-title="VIDEOCLUB",La famosa invasión de los osos en Sicilia (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/570.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hell Girl (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ku33DN2nw0LvdapeA6g6QTV7BgM.jpg" group-title="VIDEOCLUB",Hell Girl (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/571.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Lego DC: ¡Shazam!: Magia y monstruos (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ziIyuNNNwYqv0qbOpV9VvvdnRBb.jpg" group-title="VIDEOCLUB",Lego DC: ¡Shazam!: Magia y monstruos (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/572.avi
+#EXTINF:-1 tvg-id="" tvg-name="Assassin 33 A.D. (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mRFYxz09OxeBbZvBCLsakVN7LTK.jpg" group-title="VIDEOCLUB",Assassin 33 A.D. (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/573.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Doble Mas Quince (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dP6gJr9c2bHVhcwZi4DDrAnwKUn.jpg" group-title="VIDEOCLUB",El Doble Mas Quince (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/587.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bajo El Sol De Riccione (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ly1zIjlj1MuV7zHJ9NaPu0Xp2rR.jpg" group-title="VIDEOCLUB",Bajo El Sol De Riccione (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/586.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La vida invisible de Eurídice Gusmão (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/peHSj5hrhCFK3tsn54sWYqQnJse.jpg" group-title="VIDEOCLUB",La vida invisible de Eurídice Gusmão (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/588.avi
+#EXTINF:-1 tvg-id="" tvg-name="Personal Assistant " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2y2d6qELDuXF8HUldSo3ZaHxTHU.jpg" group-title="VIDEOCLUB",Personal Assistant 
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/589.avi
+#EXTINF:-1 tvg-id="" tvg-name="The F**k-It List (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e4wCmmGj8N5Md27lYZKgNLGXZV.jpg" group-title="VIDEOCLUB",The F**k-It List (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/590.avi
+#EXTINF:-1 tvg-id="" tvg-name="Think Like a Dog (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/us6f635Lq7k9oIBAosl1hx87jgr.jpg" group-title="VIDEOCLUB",Think Like a Dog (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/591.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Harriet: En busca de la libertad (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mS6LJ9Mc9dDQg1UP6BcrsgCvIp6.jpg" group-title="VIDEOCLUB",Harriet: En busca de la libertad (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/592.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ejecutivos agresivos (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xwrPvCGIDX5JWmxVNtLF67SeaXG.jpg" group-title="VIDEOCLUB",Ejecutivos agresivos (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/593.avi
+#EXTINF:-1 tvg-id="" tvg-name="The Vast of Night (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/suORidtGKPO6tWwNqiwGvNo85z3.jpg" group-title="VIDEOCLUB",The Vast of Night (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/602.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sanctuary Population One (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rhOoIY9CRze99Riuy6YVenrRuuF.jpg" group-title="VIDEOCLUB",Sanctuary Population One (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/603.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cómo escapar de Búfalo (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h37VMJAm4EhKC3k6I6K20VHaSQe.jpg" group-title="VIDEOCLUB",Cómo escapar de Búfalo (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/604.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Alerta roja (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8WzoEWgwsaPuUuu7XhInFV3YCxy.jpg" group-title="VIDEOCLUB",Alerta roja (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/605.avi
+#EXTINF:-1 tvg-id="" tvg-name="La Estafa (Bad Education) (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6NO8hU4E7xhygT2kOlGoolWHKAK.jpg" group-title="VIDEOCLUB",La Estafa (Bad Education) (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/543.avi
+#EXTINF:-1 tvg-id="" tvg-name="Unhinged (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/syBQHeRpWabNFXFXWJpgVbBDAbX.jpg" group-title="VIDEOCLUB",Unhinged (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/641.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Souvenir (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2svhKzun22mBsbLQRParIWUg3er.jpg" group-title="VIDEOCLUB",The Souvenir (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/642.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Teacher Shortage (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zeGpUzziPMZnZqNeSXqQByzbJka.jpg" group-title="VIDEOCLUB",Teacher Shortage (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/643.avi
+#EXTINF:-1 tvg-id="" tvg-name="Te veo (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2LwamrHAmxqEHsT9JViFJxT08Ek.jpg" group-title="VIDEOCLUB",Te veo (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/644.avi
+#EXTINF:-1 tvg-id="" tvg-name="Rocambola (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o3hKr0tNoXZNK2dvBoZGWqJbgHh.jpg" group-title="VIDEOCLUB",Rocambola (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/645.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los vigilantes de Malibú: La nueva ola (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7B1gSxMdgZCCJcMRgo65T5lByMw.jpg" group-title="VIDEOCLUB",Los vigilantes de Malibú: La nueva ola (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/646.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La princesa Cisne: una boda real (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mJaNBADFKRiMys8DiGemrLGYd9U.jpg" group-title="VIDEOCLUB",La princesa Cisne: una boda real (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/647.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A casa (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hTH1GW8C1OwEr2UAzgLvl5N7RAN.jpg" group-title="VIDEOCLUB",A casa (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/648.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Stano (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ky3QxFV0cQuebNfm73ZLEq6DSM.jpg" group-title="VIDEOCLUB",Stano (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/650.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Saint Frances (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mkiI2VzPLyvZvlsX8WD84P16Cee.jpg" group-title="VIDEOCLUB",Saint Frances (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/651.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Proyecto Power (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1v6PdRmGGDWlKrXCje24C8IpZs1.jpg" group-title="VIDEOCLUB",Proyecto Power (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/652.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los niños de Windermere (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/okccWF2PgHA8SMB4gJrvTUxTKP9.jpg" group-title="VIDEOCLUB",Los niños de Windermere (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/653.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Intrepido (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/enEAuydl4BWTfqKeyEChzsbvCde.jpg" group-title="VIDEOCLUB",Intrepido (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/654.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Harpoon (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/36zt0v54vRmgn1Zgvlfw0azQK9h.jpg" group-title="VIDEOCLUB",Harpoon (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/655.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Supervivencia (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pVmhj0GviejGyPucs2JkyJ3NdZu.jpg" group-title="VIDEOCLUB",Supervivencia (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/667.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rising Phoenix: Historia de los Juegos Paralímpicos (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oso09gID2bFk9q3Cni8GNOuzTWZ.jpg" group-title="VIDEOCLUB",Rising Phoenix: Historia de los Juegos Paralímpicos (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/668.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Orígenes secretos (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9NkIvN0A602Y4Ewa2h2dHSl8n9A.jpg" group-title="VIDEOCLUB",Orígenes secretos (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/669.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Killer Sofa (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zRA71SDccp0VJicyeOdC070LSxA.jpg" group-title="VIDEOCLUB",Killer Sofa (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/670.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Villain (Villano) (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kc5AdZ0DJqrnAye8xGbXgtABh4E.jpg" group-title="VIDEOCLUB",Villain (Villano) (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/692.mkv
+#EXTINF:-1 tvg-id="" tvg-name="En plan estrella de rock (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cbFgoQKRH8QiFMcLs4D52VznKUz.jpg" group-title="VIDEOCLUB",En plan estrella de rock (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/698.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Freaks: 3 superhéroes (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/slP4VYu9Bs0niFMzwchaQ7R9G69.jpg" group-title="VIDEOCLUB",Freaks: 3 superhéroes (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/699.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Phineas y Ferb, la película: Candace contra el Universo (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n6hptKS7Y0ZjkYwbqKOK3jz9XAC.jpg" group-title="VIDEOCLUB",Phineas y Ferb, la película: Candace contra el Universo (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/700.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El túnel (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x6wW6wCh5yWaS0yZwSgrGW06e6G.jpg" group-title="VIDEOCLUB",El túnel (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/701.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Más allá de la esperanza (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fNMHKpqpr5rrKLYlOhRfzZCa0wv.jpg" group-title="VIDEOCLUB",Más allá de la esperanza (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/702.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Babysitter: Killer Queen (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bcse23Sim126hRjZJEY4Yx03H9r.jpg" group-title="VIDEOCLUB",The Babysitter: Killer Queen (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/707.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mascotas unidas (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aLu16Bk5uJD7XyeWLDgrlugWQV8.jpg" group-title="VIDEOCLUB",Mascotas unidas (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/733.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ven con papá (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xuAT8OO8hO00ibo1646M78qG3hj.jpg" group-title="VIDEOCLUB",Ven con papá (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/734.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El club secreto de los no herederos al trono (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gKLvBS6eGIAzaFNjW9JRszwEs40.jpg" group-title="VIDEOCLUB",El club secreto de los no herederos al trono (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/767.mp4
+#EXTINF:-1 tvg-id="" tvg-name="2097 (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rAyoUnIWjROunlcIq6YSbVavD5F.jpg" group-title="VIDEOCLUB",2097 (2017)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/994.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A descubierto (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e6SK2CAbO3ENy52UTzP3lv32peC.jpg" group-title="VIDEOCLUB",A descubierto (2021)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/995.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Al óleo (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cLNfKYBbxWmJe7ZXULRyf1F2O4W.jpg" group-title="VIDEOCLUB",Al óleo (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/996.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Amor al sol (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7cI4NE5TM7jUKHnFEVGkAsxXy9g.jpg" group-title="VIDEOCLUB",Amor al sol (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/997.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El traficante (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pmN2sk7vOofhxve96t9bvnAgTjG.jpg" group-title="VIDEOCLUB",El traficante (2018)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/998.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Deathcember (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pEmsHJvFigUPMmhl5CjaLjw5jNT.jpg" group-title="VIDEOCLUB",Deathcember (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/999.mkv
+#EXTINF:-1 tvg-id="" tvg-name="¡Desconectados! (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aR929jS1ugaaE8xrD4FY5pyHBjz.jpg" group-title="VIDEOCLUB",¡Desconectados! (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1000.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Ascensor (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rexHPVJLZxTMTSRIsEjelkhk0Td.jpg" group-title="VIDEOCLUB",El Ascensor (2021)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1001.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fisherman's Friends 2 (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7JFDwHSRM36AHMVeex4vL0GDeHH.jpg" group-title="VIDEOCLUB",Fisherman's Friends 2 (2021)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1002.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Greenland: El último refugio (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ltlKaXvIHMTOgxqVbZSGUqcExuN.jpg" group-title="VIDEOCLUB",Greenland: El último refugio (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1003.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hürkus: héroe en el cielo (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6PXBLeAjphppr0wG95blW41tOvO.jpg" group-title="VIDEOCLUB",Hürkus: héroe en el cielo (2018)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1004.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Juegos perversos (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l3q7BlsXkg4xvVEhVVQwcO3dPOf.jpg" group-title="VIDEOCLUB",Juegos perversos (2018)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1005.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La diosa fortuna (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9xXihnYZQgTVo8nuVjG06tzs7Pl.jpg" group-title="VIDEOCLUB",La diosa fortuna (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1006.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La ofrenda (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Dvy6VJ1aOL7QaDv2omtop5aKCj.jpg" group-title="VIDEOCLUB",La ofrenda (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1007.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Lur y Amets (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m6qtMF1IofqUfmh1sUlM6IF8BB1.jpg" group-title="VIDEOCLUB",Lur y Amets (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1008.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Matar por un sueño (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b3YBiqXSjNJgJ1NBzvdKtMgMtxX.jpg" group-title="VIDEOCLUB",Matar por un sueño (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1009.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mi hermano persigue dinosaurios (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jFD84pQhmgSbdTOg3EXu7CyfMDc.jpg" group-title="VIDEOCLUB",Mi hermano persigue dinosaurios (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1010.mkv
+#EXTINF:-1 tvg-id="" tvg-name="¡Ni te me acerques! (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/voePCZdxd2tRlywb1LUjRobtbhs.jpg" group-title="VIDEOCLUB",¡Ni te me acerques! (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1011.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Padre por duplicado (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y9k5MjbLsCftyrQ4ec6bPmRtORf.jpg" group-title="VIDEOCLUB",Padre por duplicado (2021)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1012.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Somos osos: La película (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kPzcvxBwt7kEISB9O4jJEuBn72t.jpg" group-title="VIDEOCLUB",Somos osos: La película (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1014.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Última misión en Afganistán (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jUj3k9qpdCbeGCO0edYTfRmUYO5.jpg" group-title="VIDEOCLUB",Última misión en Afganistán (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1015.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Un último favor (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nRlaPRDmsRFDZAmEqecDcjwUBYn.jpg" group-title="VIDEOCLUB",Un último favor (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1016.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Una noche en Miami… (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rfIOzedY6LFzdWTeNnIkmxAiLCg.jpg" group-title="VIDEOCLUB",Una noche en Miami… (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1017.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Una pastelería en Notting Hill (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xU4WD9VqSjf8CdxPjSzFUoewKBZ.jpg" group-title="VIDEOCLUB",Una pastelería en Notting Hill (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1018.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mi hermana pequeña (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uouixy2mo3qAtzySrLxHMLoRiio.jpg" group-title="VIDEOCLUB",Mi hermana pequeña (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1019.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fuerte (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pgi88OWVwryc7GoHbMoAk6Pxeq0.jpg" group-title="VIDEOCLUB",Fuerte (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1020.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Explota Explota (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4GvZ2HFBe7URP3ByCsBYwmDnmzG.jpg" group-title="VIDEOCLUB",Explota Explota (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1035.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Asesino de modelos (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fR2RB4lwDt8jSaSiQqle5RzBAzM.jpg" group-title="VIDEOCLUB",Asesino de modelos (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1036.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Adam (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/snmT5Lsj4fyDfHBdSxXgzCRhByN.jpg" group-title="VIDEOCLUB",Adam (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1037.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Falling (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zYEu3SzvFg2McUyt22zTFxa2Qqf.jpg" group-title="VIDEOCLUB",Falling (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1038.mkv
+#EXTINF:-1 tvg-id="" tvg-name="In Fabric (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yqHi3lhDZWj8MR2P8P1L4owH4dF.jpg" group-title="VIDEOCLUB",In Fabric (2018)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1039.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La habitación (The room) (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m6bIdi1u4wq5axdW7gKhga5envh.jpg" group-title="VIDEOCLUB",La habitación (The room) (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1040.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La posesión de Mary (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4js1nTDelM4dEtJNUDmUOZMEM9K.jpg" group-title="VIDEOCLUB",La posesión de Mary (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1041.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mamá te quiere (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rEeTuQSsEyM2bSG7rwvm23WJjfg.jpg" group-title="VIDEOCLUB",Mamá te quiere (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1042.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Miss (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p1exf78fSd22pVY3UlP2Ed2ylas.jpg" group-title="VIDEOCLUB",Miss (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1043.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Salir del ropero (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6bK7HmFOWSkqQpUXpCrSbhlZzM1.jpg" group-title="VIDEOCLUB",Salir del ropero (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1044.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tigre Blanco (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3PuSDZTLK38t2q0Gs4nEQ4c8ote.jpg" group-title="VIDEOCLUB",Tigre Blanco (2021)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1045.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Una Ventana al Mar (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yMLSjYuwhd1Piqnj8j7w2O57zjc.jpg" group-title="VIDEOCLUB",Una Ventana al Mar (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1046.mkv
+#EXTINF:-1 tvg-id="" tvg-name="My Hero Academia: el despertar de los héroes (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vH5stD5pTogbZVXadIKQyMSKzTt.jpg" group-title="VIDEOCLUB",My Hero Academia: el despertar de los héroes (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1047.mkv
+#EXTINF:-1 tvg-id="" tvg-name="En los 90 (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fzbNK9ZCv82hdHJIHcZmgP9sKYN.jpg" group-title="VIDEOCLUB",En los 90 (2018)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1104.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ghosts of Darknes" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fzbNK9ZCv82hdHJIHcZmgP9sKYN.jpg" group-title="VIDEOCLUB",Ghosts of Darknes
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1105.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Excavación (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dcneAm8XdqBvkJWRZ0ht6YQUauF.jpg" group-title="VIDEOCLUB",La Excavación (2021)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1106.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Skull: The Mask (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/prlTH69O6OQkcYn6gO9JpAxIh7P.jpg" group-title="VIDEOCLUB",Skull: The Mask (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1107.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Skyfire (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6wRXyIDLDPehK7onzt63Mx9Sk6l.jpg" group-title="VIDEOCLUB",Skyfire (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1108.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Todo pasa en Tel Aviv (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ra1tRzgGtUEPEwSi9BQNxiY2Age.jpg" group-title="VIDEOCLUB",Todo pasa en Tel Aviv (2018)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1109.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bajocero (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jSQm5N889mt4rudOYfYBUFapdYN.jpg" group-title="VIDEOCLUB",Bajocero (2021)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1110.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ben 10 contra el Universo: La película (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/irkcFSVhPuqDw6ZtJ4Mb26eVboa.jpg" group-title="VIDEOCLUB",Ben 10 contra el Universo: La película (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1112.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El reino de Dunark 2 el don de la serpiente (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6qUBU0F5DxAgClcgMRHxYVOARJW.jpg" group-title="VIDEOCLUB",El reino de Dunark 2 el don de la serpiente (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1113.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Akelarre (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rIs31rRReWwZqQWBtS5MCnPlfsB.jpg" group-title="VIDEOCLUB",Akelarre (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1114.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Black Beach (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a2Sw3SG3Oi9lg0PLv8v9Jz1P3dN.jpg" group-title="VIDEOCLUB",Black Beach (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1115.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cajas oscuras (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kSxot0vVOmLsviEdSml1izyiC4g.jpg" group-title="VIDEOCLUB",Cajas oscuras (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1116.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Caminando entre las tumbas (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nb0L57p0r25ehV46trx86537ByP.jpg" group-title="VIDEOCLUB",Caminando entre las tumbas (2014)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1117.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Como perros y gatos: La patrulla unida (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5I9ZSO42I9Rl3aXh7nMaTLWiUaz.jpg" group-title="VIDEOCLUB",Como perros y gatos: La patrulla unida (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1118.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Las brujas (de Roald Dahl) (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s1y92244iBlKW04rEnaEK8i8tPY.jpg" group-title="VIDEOCLUB",Las brujas (de Roald Dahl) (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1119.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mamá se va de viaje (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xEbSztKAAwIljX8A537HeZDKXUS.jpg" group-title="VIDEOCLUB",Mamá se va de viaje (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1120.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Doorman (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pklyUbh4k1DbHdnsOMASyw7C6NH.jpg" group-title="VIDEOCLUB",The Doorman (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1121.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Amor sobre hielo (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dI9CSLTM52sWPz7jDJt6HImAqYN.jpg" group-title="VIDEOCLUB",Amor sobre hielo (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1130.mkv
+#EXTINF:-1 tvg-id="" tvg-name="ASIA Symfonia - Live In Bulgaria 2013 (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2DLXr4fO2uRYpB13o70y0PHlcPH.jpg" group-title="VIDEOCLUB",ASIA Symfonia - Live In Bulgaria 2013 (2017)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1131.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Belleza eterna (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uKsUO0jv05LGB5SWAYF3Z3VF7zA.jpg" group-title="VIDEOCLUB",Belleza eterna (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1132.mkv
+#EXTINF:-1 tvg-id="" tvg-name="¡Devuelve el anillo! (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oJABFsIxXSQqPTvj5xRJn2zxcgX.jpg" group-title="VIDEOCLUB",¡Devuelve el anillo! (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1133.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El aviso (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h9vOlRwo0wTUyu6OzVfytENvivT.jpg" group-title="VIDEOCLUB",El aviso (2018)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1134.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El ingrediente secreto (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5oO51VjVVIGrI5UHsNxIRadh8Hr.jpg" group-title="VIDEOCLUB",El ingrediente secreto (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1135.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El mapa de las pequeñas cosas perfectas (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6y3ev0rJFbHA1hU22UPmmfzBjrG.jpg" group-title="VIDEOCLUB",El mapa de las pequeñas cosas perfectas (2021)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1136.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jóvenes y brujas (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ohj9zYG2zSD69yfM3RF4xAKTl1j.jpg" group-title="VIDEOCLUB",Jóvenes y brujas (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1137.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ma Petite Sophie (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ihZHI4D8pxt8pWOPCQO0EHsoM9.jpg" group-title="VIDEOCLUB",Ma Petite Sophie (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1138.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Me necesitas (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5eV0mIQqSztD3McjO22EOFlQDj1.jpg" group-title="VIDEOCLUB",Me necesitas (2017)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1139.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mi primo (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kt2ujBhjJd6gKkW2QyImZowXOrY.jpg" group-title="VIDEOCLUB",Mi primo (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1140.mkv
+#EXTINF:-1 tvg-id="" tvg-name="No soy tu enemigo (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cCH9LDrQbf7VXDB6MFaFJc1ftaF.jpg" group-title="VIDEOCLUB",No soy tu enemigo (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1141.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Punto rojo (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aWEMxv4vaF4VQsQcOIXJg0NqtsL.jpg" group-title="VIDEOCLUB",Punto rojo (2021)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1142.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Regreso a Hope Gap (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3eKpnvNZty0QvIQusjAVG5oRJXy.jpg" group-title="VIDEOCLUB",Regreso a Hope Gap (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1143.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Supa Modo (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gvRrPZQlYX1bwwTxxtuerrADviz.jpg" group-title="VIDEOCLUB",Supa Modo (2018)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1144.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Barrenderos espaciales (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x6TTdrTeBVDKVCf9FUERmwNty7W.jpg" group-title="VIDEOCLUB",Barrenderos espaciales (2021)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1148.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Camino hacia la libertad (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wmvy6eQQSI15yhxcCZ63GqAXOoO.jpg" group-title="VIDEOCLUB",Camino hacia la libertad (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1149.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cima a la amistad (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/auPGrjBgHIhBfOSdHqes7L6cgGa.jpg" group-title="VIDEOCLUB",Cima a la amistad (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1150.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Colegio de magia y hechicería (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/83TGw9qcqywfnjM9dsWG1sSZziQ.jpg" group-title="VIDEOCLUB",Colegio de magia y hechicería (2021)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1151.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Confinados (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ltK2lPoF4ULwMysKASYTy4fCRWp.jpg" group-title="VIDEOCLUB",Confinados (2021)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1152.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cosmética del enemigo (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ksLE8wXhKxJEfrjwJa8XmJAKHZ.jpg" group-title="VIDEOCLUB",Cosmética del enemigo (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1153.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El camino de Xico (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ssk0Gd27ziryP2OUxprIVhAvr3e.jpg" group-title="VIDEOCLUB",El camino de Xico (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1154.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El secreto: Atrévete a soñar (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ujcicZOHAUpVkD0PeYGZVL6az59.jpg" group-title="VIDEOCLUB",El secreto: Atrévete a soñar (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1155.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Generación Y (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hPfCHs77qlsCTvrILolIbh94tv5.jpg" group-title="VIDEOCLUB",Generación Y (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1156.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jana y la piruleta mágica (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7b88CZhWaUfjLuFrBVE8O73wJob.jpg" group-title="VIDEOCLUB",Jana y la piruleta mágica (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1157.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Lost After Dark (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u49uk8kA3qrmUY40GAsXCjjMFrb.jpg" group-title="VIDEOCLUB",Lost After Dark (2014)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1159.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Malcolm & Marie (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/svwb7yGCbjHppmwhsdJbDH0xhUI.jpg" group-title="VIDEOCLUB",Malcolm & Marie (2021)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1160.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Narciso y Goldmundo (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vFVKF1xDTkqgKlV1d6ZuM8cujfe.jpg" group-title="VIDEOCLUB",Narciso y Goldmundo (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1161.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Shock Wave (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aeWdUpeGnjbce1tBO2oDig9utpq.jpg" group-title="VIDEOCLUB",Shock Wave (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1162.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Violeta y los días grises (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9QdXVDUe2upXSEYN68BhjVzqV0A.jpg" group-title="VIDEOCLUB",Violeta y los días grises (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1163.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Glorias (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Af2I5eT1HnLLkXQilwCmE3kkV8z.jpg" group-title="VIDEOCLUB",The Glorias (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1164.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sputnik (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nLjfYXZ5XZX1gEopCGIrmqQq54A.jpg" group-title="VIDEOCLUB",Sputnik (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1165.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Soltera, 39 (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m7tDgssk5D4Q9Gho0sKuI1hsr3c.jpg" group-title="VIDEOCLUB",Soltera, 39 (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1166.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Libéranos del mal (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8URN74FpgNxSOYFOAwakfBNV5V8.jpg" group-title="VIDEOCLUB",Libéranos del mal (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1167.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El buen maestro (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kaQwvB5kxTY695cOpvzZON6L0ak.jpg" group-title="VIDEOCLUB",El buen maestro (2017)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1168.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El mejor día del año (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jhPiuyN0ZHi9X3SaFxATh2FxNf6.jpg" group-title="VIDEOCLUB",El mejor día del año (2015)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1169.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Las hijas del Reich (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cvzV7kJLhzufGM90Dgr5KKna6A5.jpg" group-title="VIDEOCLUB",Las hijas del Reich (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1170.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Little Italy (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zwlB4kHXK6IDhZMTALNOfohnr00.jpg" group-title="VIDEOCLUB",Little Italy (2018)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1171.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Loco por ella (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mVcOR5f1bKhqSWWxViOfmOJ7aqc.jpg" group-title="VIDEOCLUB",Loco por ella (2021)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1172.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Richard dice adiós (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cypBSinhGuQaZ7VuOmGtcKMp91G.jpg" group-title="VIDEOCLUB",Richard dice adiós (2018)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1173.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tenet (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/buSr2RIxzJ5Zh6dLaLBsqAdvz3I.jpg" group-title="VIDEOCLUB",Tenet (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1175.avi
+#EXTINF:-1 tvg-id="" tvg-name="La princesa de Roma (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e2I41ElBtMNz0tsgm6knRBamzc2.jpg" group-title="VIDEOCLUB",La princesa de Roma (2015)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1158.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Body Brokers (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ezL0nCLCPG1iVJFtIEkKSC6H13x.jpg" group-title="VIDEOCLUB",Body Brokers (2021)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1189.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El año de las bodas (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pUeMpXt2iJIevr8qWq81tpacL2R.jpg" group-title="VIDEOCLUB",El año de las bodas (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1190.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El club de los divorciados (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nBI9JhkJ66rNePqwwS1SaQVNgMv.jpg" group-title="VIDEOCLUB",El club de los divorciados (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1191.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El día que todo cambió (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xRLaQuEjO9IcV2GPNAnD0TsodJ.jpg" group-title="VIDEOCLUB",El día que todo cambió (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1192.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El monstruo de St. Pauli (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mMzK5n04IYNFnHKZDyPMO2OcG4t.jpg" group-title="VIDEOCLUB",El monstruo de St. Pauli (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1193.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El palacio ideal (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ef40ffCN3yhNUs5HEaH5clqtQPg.jpg" group-title="VIDEOCLUB",El palacio ideal (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1194.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El rey de Zamunda (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jJFvY25lPaKlapYOeIH6N5aKcbh.jpg" group-title="VIDEOCLUB",El rey de Zamunda (2021)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1195.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Enjambre (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w4H3uRmPXH8rMD6b8fomMxHL1Ub.jpg" group-title="VIDEOCLUB",Enjambre (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1196.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Este cuerpo me sienta de muerte (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jIyCHFNJVqYzvqBlytJbDqCUnIC.jpg" group-title="VIDEOCLUB",Este cuerpo me sienta de muerte (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1197.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Falsas apariencias (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t2OtpN7iSyHCPKhpzRQ55Yg25Hk.jpg" group-title="VIDEOCLUB",Falsas apariencias (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1198.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Infiel y seductor (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k5noeqY37ZkEDYjCH41lYMinYjO.jpg" group-title="VIDEOCLUB",Infiel y seductor (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1199.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los secretos que ocultamos (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kTIAVoqJ8mKamOew1YNNf1vQlN8.jpg" group-title="VIDEOCLUB",Los secretos que ocultamos (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1200.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Más allá de la mentira (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sYeVYImz8SC18EKvKSZkLz8GkhX.jpg" group-title="VIDEOCLUB",Más allá de la mentira (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1201.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nuestros mejores años (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8R9DrNmPC9ETuXYINbON6CVfc77.jpg" group-title="VIDEOCLUB",Nuestros mejores años (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1202.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pasajero oculto (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tPmRsNX2X3Bz3byvWvGZ27n3vbl.jpg" group-title="VIDEOCLUB",Pasajero oculto (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1203.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pequeños detalles (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j62o61KqXrYeThdmNOtm3UplUSl.jpg" group-title="VIDEOCLUB",Pequeños detalles (2021)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1204.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Saga Steel " tvg-logo="https://www.divxtotal.ch/wp-content/uploads/fly-images/661136/v_c_andrews_heaven_tv-544875798-large-150x222-.jpg" group-title="VIDEOCLUB",Saga Steel 
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1205.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Seducción y engaño (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yxiVuTepR6CeVtzXR8PdHHC5lbe.jpg" group-title="VIDEOCLUB",Seducción y engaño (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1206.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tal como soy (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aqWky6GLXXxlKUJ6o4ePYP5MAlX.jpg" group-title="VIDEOCLUB",Tal como soy (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1207.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The New King of Comedy (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cY7eJq8ho1qGhqlh1x95vZ6azuT.jpg" group-title="VIDEOCLUB",The New King of Comedy (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1208.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Trabajo extremo (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jbHNkNydiZstlqhhBSvG19lm4NL.jpg" group-title="VIDEOCLUB",Trabajo extremo (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1209.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Una mujer con unas alas tremendas (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zhFu9Yy6Dj5jmc89LhwyD97v6vS.jpg" group-title="VIDEOCLUB",Una mujer con unas alas tremendas (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1210.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Vicious Fun (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4N5Cw3X9zWvemegcj25qJNGMwnW.jpg" group-title="VIDEOCLUB",Vicious Fun (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1211.mkv
+#EXTINF:-1 tvg-id="" tvg-name="1000 millones (Milliard) (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eEd8YAvCcJVuXQmq3NCeNSXozf4.jpg" group-title="VIDEOCLUB",1000 millones (Milliard) (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1212.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Shiva Baby (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5IBJwMPSCS5XdRT7BO1ZMreFOis.jpg" group-title="VIDEOCLUB",Shiva Baby (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1213.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Amigo (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m7jYZeRfiFmwAfgV6Fyl5K28bdf.jpg" group-title="VIDEOCLUB",El Amigo (2017)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1215.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El misterio de Block Island (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g9m1iWhDtZHfvmQb7lwTe8AERpW.jpg" group-title="VIDEOCLUB",El misterio de Block Island (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1216.mkv
+#EXTINF:-1 tvg-id="" tvg-name="En el lugar equivocado (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xD3hqGVpIdgpBQJhxZM0uiJEjx6.jpg" group-title="VIDEOCLUB",En el lugar equivocado (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1217.mkv
+#EXTINF:-1 tvg-id="" tvg-name="First Light (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rTu9p0a0yYVC66L0ZBzAx1pc9l8.jpg" group-title="VIDEOCLUB",First Light (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1218.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fritzi:  Un cuento revolucionario (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1YAbBJTAlYIwCRJqU0ZNnMGZV28.jpg" group-title="VIDEOCLUB",Fritzi:  Un cuento revolucionario (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1219.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Harry y Meghan" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1YAbBJTAlYIwCRJqU0ZNnMGZV28.jpg" group-title="VIDEOCLUB",Harry y Meghan
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1220.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Liga de la Justicia de Zack Snyder (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rkuvJnamPl3xW9wKJsIS6qkmOCW.jpg" group-title="VIDEOCLUB",La Liga de la Justicia de Zack Snyder (2021)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1221.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La rosa de Bombay (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7MXu4MS4Ylu3GADRGprgekeUfrg.jpg" group-title="VIDEOCLUB",La rosa de Bombay (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1222.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Las espías de Churchill (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jhGUAyon6tT8fH7UUfhxabc69j9.jpg" group-title="VIDEOCLUB",Las espías de Churchill (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1223.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Las ondas del recuerdo (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nQ8I59n1nH74FO83JOAwqMbYFOp.jpg" group-title="VIDEOCLUB",Las ondas del recuerdo (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1224.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nekrotronic (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ke49Ev0ytntnnJ8z8XHDPvJ4Nff.jpg" group-title="VIDEOCLUB",Nekrotronic (2018)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1225.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Party Hard, Die Young (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xCzIdapXO02Q0qAPmIdp3aWJKgV.jpg" group-title="VIDEOCLUB",Party Hard, Die Young (2018)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1226.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Secretos de Estado (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nmRdVrAy9icP0NWsSjwBUgvlu21.jpg" group-title="VIDEOCLUB",Secretos de Estado (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1227.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sin rumbo (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lawNhHizqlPGMpod35kgdvqQcAP.jpg" group-title="VIDEOCLUB",Sin rumbo (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1228.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Super Wombat (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/383b9E3Uv1fOyPiSxMZr8lsjFMa.jpg" group-title="VIDEOCLUB",Super Wombat (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1229.mkv
+#EXTINF:-1 tvg-id="" tvg-name="7 horas para enamorarte (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yMU3x21O7NZT142Q65JCgSp01NI.jpg" group-title="VIDEOCLUB",7 horas para enamorarte (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1243.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Atrapado en Grand Isle (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/OQf805zU1G5W1fAFc5pWTsvSCn.jpg" group-title="VIDEOCLUB",Atrapado en Grand Isle (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1245.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Buscando a Steve McQueen (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uhmNHWTVniHHYKTsWSvSir19K1z.jpg" group-title="VIDEOCLUB",Buscando a Steve McQueen (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1246.mkv
+#EXTINF:-1 tvg-id="" tvg-name="De Gaulle (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cE3FvjNHthDTXIcgVe9P4tWC6w4.jpg" group-title="VIDEOCLUB",De Gaulle (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1247.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Derelict (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Bn66MDbESVtlKCxWxoooCFe37N.jpg" group-title="VIDEOCLUB",Derelict (2017)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1248.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Diablo. La última carrera (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ijRdz3Ukc2jnnyIb1kuU8y0iubM.jpg" group-title="VIDEOCLUB",Diablo. La última carrera (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1249.mkv
+#EXTINF:-1 tvg-id="" tvg-name="¡Hoy si! (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ycDm9vHlhCTZAQ4Wl5NkhNJ5DFk.jpg" group-title="VIDEOCLUB",¡Hoy si! (2021)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1250.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El suelo bajo mis pies (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wAnKUUgm8WW76Xv6QWToNZKGGSX.jpg" group-title="VIDEOCLUB",El suelo bajo mis pies (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1251.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Érase una vez en Venezuela (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qqYRkF6T31BWJjFapIda8jHizGy.jpg" group-title="VIDEOCLUB",Érase una vez en Venezuela (2021)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1252.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Exodo de la batalla a la frontera (2021)" tvg-logo="https://www.divxtotal.ch/wp-content/uploads/fly-images/661554/exode_de_la_batalla_a_la_frontera_tv-494710558-large-150x222-.jpg" group-title="VIDEOCLUB",Exodo de la batalla a la frontera (2021)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1253.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fanny Lye liberada (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/drLY6i6VdxvuUYyAMXvaM66Tnzq.jpg" group-title="VIDEOCLUB",Fanny Lye liberada (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1254.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ilusiones mortales (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/INUZJwLaAd8ZkuioxtjQusRpgZ.jpg" group-title="VIDEOCLUB",Ilusiones mortales (2021)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1255.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Judas y el Mesías Negro (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dWT1OIu5V4ZCUWLP4dbTbhWFLBi.jpg" group-title="VIDEOCLUB",Judas y el Mesías Negro (2021)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1256.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Las furias (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cIgbElyw7bf9QfGup9wP1hE2sjp.jpg" group-title="VIDEOCLUB",Las furias (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1257.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Papeles de Aspern (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xlA7aWV4aZR7Eyod6tpN68Awcen.jpg" group-title="VIDEOCLUB",Los Papeles de Aspern (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1260.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Monster Hunter (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dZOYV74OQsmBkoKPIRu0n1sYHZb.jpg" group-title="VIDEOCLUB",Monster Hunter (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1261.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nación cautiva (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5yM3xePGxx3vc0bEqvOdZnywjYC.jpg" group-title="VIDEOCLUB",Nación cautiva (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1262.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ondina. Un amor para siempre (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fxevf0zMuqUOVEla9Tj38TmgSRy.jpg" group-title="VIDEOCLUB",Ondina. Un amor para siempre (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1263.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ophelia (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fxevf0zMuqUOVEla9Tj38TmgSRy.jpg" group-title="VIDEOCLUB",Ophelia (2021)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1264.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Suegra por sorpresa (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v1UP3iaRJ6C1f7zjLwugqJ6pPfO.jpg" group-title="VIDEOCLUB",Suegra por sorpresa (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1265.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Mauritanian (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A1AstzD18wogGYUgWjXPPvn8GSr.jpg" group-title="VIDEOCLUB",The Mauritanian (2021)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1266.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Archenemy (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4H54bQrCM6NBm9sqw911scGd4hb.jpg" group-title="VIDEOCLUB",Archenemy (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1268.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ardara (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9gLvwQjGmGeARcqngQ6fTfoxNrJ.jpg" group-title="VIDEOCLUB",Ardara (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1269.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cita para matar (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ytT6XHRpO2DhX8YbKM6kddvC88f.jpg" group-title="VIDEOCLUB",Cita para matar (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1270.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La reina del mal" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qIrnmT5kcqeT2MELbouTNpIc4Nb.jpg" group-title="VIDEOCLUB",La reina del mal
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1271.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ni de coña (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rAA5jxbKpMZqdIj2h5gDpuYeYbG.jpg" group-title="VIDEOCLUB",Ni de coña (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1272.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Relic (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4TinKYaZtNThqo2sac1dHYv0yic.jpg" group-title="VIDEOCLUB",Relic (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1273.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Secretos en el lago (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5E98gPgToeBxnyK61elSvBMVpFE.jpg" group-title="VIDEOCLUB",Secretos en el lago (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1274.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sí, quiero (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bGucFJGHeTqrK5Au4rYFzaZ8JIz.jpg" group-title="VIDEOCLUB",Sí, quiero (2018)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1275.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tom y Jerry (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/orzPlWUbf0S5HeWmpP3TeHvduwn.jpg" group-title="VIDEOCLUB",Tom y Jerry (2021)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1276.mkv
+#EXTINF:-1 tvg-id="" tvg-name="2067 (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7D430eqZj8y3oVkLFfsWXGRcpEG.jpg" group-title="VIDEOCLUB",2067 (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1277.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Caso Murer: El carnicero de Vilnius (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ml9urdIxXjkx6ONjMK8PIvPHlez.jpg" group-title="VIDEOCLUB",Caso Murer: El carnicero de Vilnius (2018)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1278.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fatale (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iP8TZ5lJLWYcq8LnaRoQcO4AckN.jpg" group-title="VIDEOCLUB",Fatale (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1279.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Get Carter (Asesino implacable) (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yXWZrVTaERq9eO4m4QsHwSKytEr.jpg" group-title="VIDEOCLUB",Get Carter (Asesino implacable) (2000)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1280.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Godzilla vs Kong (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bnuC6hu7AB5dYW26A3o6NNLlIlE.jpg" group-title="VIDEOCLUB",Godzilla vs Kong (2021)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1281.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Juegos de colegas (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uNCZh6YGg6r0GMyrctI14R0lHGL.jpg" group-title="VIDEOCLUB",Juegos de colegas (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1282.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mi guerra favorita (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tSgMKAGDkurmaCZWxvGNb7g0dNS.jpg" group-title="VIDEOCLUB",Mi guerra favorita (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1283.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Reset, volver a empezar (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pvNNL6fdxOMkokjH7AYz28InuEE.jpg" group-title="VIDEOCLUB",Reset, volver a empezar (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1284.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El infiel (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j4mGUmrrfErqlTDE5pBSdF5aOzK.jpg" group-title="VIDEOCLUB",El infiel (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1292.avi
+#EXTINF:-1 tvg-id="" tvg-name="El virtuoso (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bhVAB3rdSRZjhy6rr5nPy274EIx.jpg" group-title="VIDEOCLUB",El virtuoso (2021)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1293.avi
+#EXTINF:-1 tvg-id="" tvg-name="Hijos del Sur (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3LExC6FEHKkHdeb7z3W0ncU2CKY.jpg" group-title="VIDEOCLUB",Hijos del Sur (2021)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1294.avi
+#EXTINF:-1 tvg-id="" tvg-name="Lea Salvaje (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3LExC6FEHKkHdeb7z3W0ncU2CKY.jpg" group-title="VIDEOCLUB",Lea Salvaje (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1295.avi
+#EXTINF:-1 tvg-id="" tvg-name="Soul Surfer (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tNTRi1Zpt5Bkq7HHB4cM7MRfAV5.jpg" group-title="VIDEOCLUB",Soul Surfer (2011)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1296.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Supercondríaco (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rZcx2GBQISUT6OYuMGcIokjiPon.jpg" group-title="VIDEOCLUB",Supercondríaco (2014)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1297.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Very Bad Things (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cchnUtL8WsjvVM3IkTBj8NGUcwm.jpg" group-title="VIDEOCLUB",Very Bad Things (1998)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1298.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cuidado con los niños (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b9pvKzMxrs2yF2ZXt2IXji3CPvt.jpg" group-title="VIDEOCLUB",Cuidado con los niños (2019)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1302.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Samurái X: El fin (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5LZUYPox2Ui59OzvnR06W2sqVXs.jpg" group-title="VIDEOCLUB",Samurái X: El fin (2021)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1305.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Seguridad (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tuMcn12Us09pmAOuVEHXmFRivjF.jpg" group-title="VIDEOCLUB",Seguridad (2021)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1306.mkv
+#EXTINF:-1 tvg-id="" tvg-name="You Should Have Left (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qbYUXE1S0jI7Uvz0ZxR2YW9y8pu.jpg" group-title="VIDEOCLUB",You Should Have Left (2020)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1307.avi
+#EXTINF:-1 tvg-id="" tvg-name="Mascotas monstruosas: Un corto de Hotel Transilvania (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dkokENeY5Ka30BFgWAqk14mbnGs.jpg" group-title="VIDEOCLUB",Mascotas monstruosas: Un corto de Hotel Transilvania (2021)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1304.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Luca (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pr06RihHOGE3waZQx5fs2WYUdwr.jpg" group-title="VIDEOCLUB",Luca (2021)
+http://6ura.top:8000/movie/fj50/ST5hj6jmQK/1303.mkv
+#EXTINF:-1 tvg-id="" tvg-name="30 Monedas S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/iRBEBuqBqwjEXvolAxk3k54xkUA.jpg" group-title="SERIES",30 Monedas S01 E01
+http://6ura.top:8000/series/fj50/ST5hj6jmQK/1026.mp4
+#EXTINF:-1 tvg-id="" tvg-name="30 Monedas S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/A2Q3cjux6zVIPlpfbzx9feCLMIQ.jpg" group-title="SERIES",30 Monedas S01 E02
+http://6ura.top:8000/series/fj50/ST5hj6jmQK/1027.mp4
+#EXTINF:-1 tvg-id="" tvg-name="30 Monedas S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/28rszBtWSfIbMO6n9amGb6RfLvi.jpg" group-title="SERIES",30 Monedas S01 E03
+http://6ura.top:8000/series/fj50/ST5hj6jmQK/1028.mp4
+#EXTINF:-1 tvg-id="" tvg-name="30 Monedas S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/lkEe2PcU9IUHg9Q7gG7FtPG7Rhk.jpg" group-title="SERIES",30 Monedas S01 E04
+http://6ura.top:8000/series/fj50/ST5hj6jmQK/1029.mp4
+#EXTINF:-1 tvg-id="" tvg-name="30 Monedas S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/x8YjESqUCop2D9mHomkLnnJ0YBs.jpg" group-title="SERIES",30 Monedas S01 E05
+http://6ura.top:8000/series/fj50/ST5hj6jmQK/1030.mkv
+#EXTINF:-1 tvg-id="" tvg-name="30 Monedas S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/qA0KYTcfGqjXwyqjfWP2pfRzvEk.jpg" group-title="SERIES",30 Monedas S01 E06
+http://6ura.top:8000/series/fj50/ST5hj6jmQK/1031.mkv
+#EXTINF:-1 tvg-id="" tvg-name="30 Monedas S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/r2CmUfHZ6a0AK0ue8VKFnVCGYYH.jpg" group-title="SERIES",30 Monedas S01 E07
+http://6ura.top:8000/series/fj50/ST5hj6jmQK/1074.avi
+#EXTINF:-1 tvg-id="" tvg-name="30 Monedas S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lw70w94nzCmIVSQvtMcuAjWHfWX.jpg" group-title="SERIES",30 Monedas S01 E08
+http://6ura.top:8000/series/fj50/ST5hj6jmQK/1032.mkv
+#EXTINF:-1 tvg-id="" tvg-name="30 Monedas S01 E09" tvg-logo="https://image.tmdb.org/t/p/w300/mFZ25SnGfhKsp0BMY6ZxjePP9Ho.jpg" group-title="SERIES",30 Monedas S01 E09
+http://6ura.top:8000/series/fj50/ST5hj6jmQK/1033.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bruja Escarlata y Visión S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/oNCzeCXFanVEWNpzRzyffhLLfZs.jpg" group-title="SERIES",Bruja Escarlata y Visión S01 E01
+http://6ura.top:8000/series/fj50/ST5hj6jmQK/1024.avi
+#EXTINF:-1 tvg-id="" tvg-name="Bruja Escarlata y Visión S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/khd7fNSvb4Lr0vLNy4tmoWKksvo.jpg" group-title="SERIES",Bruja Escarlata y Visión S01 E02
+http://6ura.top:8000/series/fj50/ST5hj6jmQK/1025.avi
+#EXTINF:-1 tvg-id="" tvg-name="Bruja Escarlata y Visión S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/zT55iSCAWsKJOpEc6s989lgok65.jpg" group-title="SERIES",Bruja Escarlata y Visión S01 E03
+http://6ura.top:8000/series/fj50/ST5hj6jmQK/1048.avi
+#EXTINF:-1 tvg-id="" tvg-name="The Good Doctor S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/eeNYnyVdAGdBzVDCIspxlFHNAtb.jpg" group-title="SERIES",The Good Doctor S01 E01
+http://6ura.top:8000/series/fj50/ST5hj6jmQK/1049.avi
+#EXTINF:-1 tvg-id="" tvg-name="The Good Doctor S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/1g3CuVBgFOOH12Sth6UjLInF2CK.jpg" group-title="SERIES",The Good Doctor S01 E02
+http://6ura.top:8000/series/fj50/ST5hj6jmQK/1050.avi
+#EXTINF:-1 tvg-id="" tvg-name="The Good Doctor S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/tmqwU2w2K6013xPkowDx4I0FFM5.jpg" group-title="SERIES",The Good Doctor S01 E03
+http://6ura.top:8000/series/fj50/ST5hj6jmQK/1051.avi
+#EXTINF:-1 tvg-id="" tvg-name="The Good Doctor S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/fVjVylVNKoWENfT33mpB6fhuAFm.jpg" group-title="SERIES",The Good Doctor S01 E04
+http://6ura.top:8000/series/fj50/ST5hj6jmQK/1052.avi
+#EXTINF:-1 tvg-id="" tvg-name="The Good Doctor S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/MzfgLX9JNTKWVvWRFC2kgjB2xz.jpg" group-title="SERIES",The Good Doctor S01 E05
+http://6ura.top:8000/series/fj50/ST5hj6jmQK/1053.avi
+#EXTINF:-1 tvg-id="" tvg-name="The Good Doctor S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/s8GYwVwdLtKI1bAVJnJ68SJOgaz.jpg" group-title="SERIES",The Good Doctor S01 E06
+http://6ura.top:8000/series/fj50/ST5hj6jmQK/1054.avi
+#EXTINF:-1 tvg-id="" tvg-name="The Good Doctor S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/aj1VKYlk0FjLNH2ViWG7kzgsLT9.jpg" group-title="SERIES",The Good Doctor S01 E07
+http://6ura.top:8000/series/fj50/ST5hj6jmQK/1055.avi
+#EXTINF:-1 tvg-id="" tvg-name="The Good Doctor S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/pwYRmXPu2MHXDYizfE9JNEUXi4A.jpg" group-title="SERIES",The Good Doctor S01 E08
+http://6ura.top:8000/series/fj50/ST5hj6jmQK/1056.avi
+#EXTINF:-1 tvg-id="" tvg-name="The Good Doctor S01 E09" tvg-logo="https://image.tmdb.org/t/p/w300/qTy5ccl2GOAXENEMGjV9C2qTpqq.jpg" group-title="SERIES",The Good Doctor S01 E09
+http://6ura.top:8000/series/fj50/ST5hj6jmQK/1057.avi
+#EXTINF:-1 tvg-id="" tvg-name="The Good Doctor S01 E10" tvg-logo="https://image.tmdb.org/t/p/w300/vCS4jTC0zJinFJy1Y5gHuw32esN.jpg" group-title="SERIES",The Good Doctor S01 E10
+http://6ura.top:8000/series/fj50/ST5hj6jmQK/1058.avi
+#EXTINF:-1 tvg-id="" tvg-name="The Good Doctor S01 E11" tvg-logo="https://image.tmdb.org/t/p/w300/8cKH2zoW1p7gyyWYs0RgqMMyjFO.jpg" group-title="SERIES",The Good Doctor S01 E11
+http://6ura.top:8000/series/fj50/ST5hj6jmQK/1059.avi
+#EXTINF:-1 tvg-id="" tvg-name="The Good Doctor S01 E12" tvg-logo="https://image.tmdb.org/t/p/w300/skCS4v00DeeePf2hBYN3UFvAVlw.jpg" group-title="SERIES",The Good Doctor S01 E12
+http://6ura.top:8000/series/fj50/ST5hj6jmQK/1060.avi
+#EXTINF:-1 tvg-id="" tvg-name="The Good Doctor S01 E13" tvg-logo="https://image.tmdb.org/t/p/w300/ql96ISN6nrRQsz9lxQ62zfFaH60.jpg" group-title="SERIES",The Good Doctor S01 E13
+http://6ura.top:8000/series/fj50/ST5hj6jmQK/1061.avi
+#EXTINF:-1 tvg-id="" tvg-name="Bulletproof S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pMfMsFNwpk5kY5ACU93BZQJ2ay6.jpg" group-title="SERIES",Bulletproof S02 E01
+http://6ura.top:8000/series/fj50/ST5hj6jmQK/1062.avi
+#EXTINF:-1 tvg-id="" tvg-name="Bulletproof S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pMfMsFNwpk5kY5ACU93BZQJ2ay6.jpg" group-title="SERIES",Bulletproof S02 E02
+http://6ura.top:8000/series/fj50/ST5hj6jmQK/1063.avi
+#EXTINF:-1 tvg-id="" tvg-name="Bulletproof S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pMfMsFNwpk5kY5ACU93BZQJ2ay6.jpg" group-title="SERIES",Bulletproof S02 E03
+http://6ura.top:8000/series/fj50/ST5hj6jmQK/1064.avi
+#EXTINF:-1 tvg-id="" tvg-name="Bulletproof S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pMfMsFNwpk5kY5ACU93BZQJ2ay6.jpg" group-title="SERIES",Bulletproof S02 E04
+http://6ura.top:8000/series/fj50/ST5hj6jmQK/1065.avi
+#EXTINF:-1 tvg-id="" tvg-name="Bulletproof S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pMfMsFNwpk5kY5ACU93BZQJ2ay6.jpg" group-title="SERIES",Bulletproof S02 E05
+http://6ura.top:8000/series/fj50/ST5hj6jmQK/1066.avi
+#EXTINF:-1 tvg-id="" tvg-name="Bulletproof S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pMfMsFNwpk5kY5ACU93BZQJ2ay6.jpg" group-title="SERIES",Bulletproof S02 E06
+http://6ura.top:8000/series/fj50/ST5hj6jmQK/1067.avi
+#EXTINF:-1 tvg-id="" tvg-name="Bulletproof S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pMfMsFNwpk5kY5ACU93BZQJ2ay6.jpg" group-title="SERIES",Bulletproof S02 E07
+http://6ura.top:8000/series/fj50/ST5hj6jmQK/1111.avi
+#EXTINF:-1 tvg-id="" tvg-name="Coyote S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/z0nUbXeeM6lwHjTKwrwdWkV6cLw.jpg" group-title="SERIES",Coyote S01 E01
+http://6ura.top:8000/series/fj50/ST5hj6jmQK/1068.avi
+#EXTINF:-1 tvg-id="" tvg-name="Horizonte: Informe Covid S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Uhj6o0f8ACcsWGj2oqT4MmCmG2.jpg" group-title="SERIES",Horizonte: Informe Covid S01 E01
+http://6ura.top:8000/series/fj50/ST5hj6jmQK/1069.avi
+#EXTINF:-1 tvg-id="" tvg-name="Horizonte: Informe Covid S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Uhj6o0f8ACcsWGj2oqT4MmCmG2.jpg" group-title="SERIES",Horizonte: Informe Covid S01 E02
+http://6ura.top:8000/series/fj50/ST5hj6jmQK/1070.avi
+#EXTINF:-1 tvg-id="" tvg-name="Horizonte: Informe Covid S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Uhj6o0f8ACcsWGj2oqT4MmCmG2.jpg" group-title="SERIES",Horizonte: Informe Covid S01 E03
+http://6ura.top:8000/series/fj50/ST5hj6jmQK/1071.avi
+#EXTINF:-1 tvg-id="" tvg-name="Horizonte: Informe Covid S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Uhj6o0f8ACcsWGj2oqT4MmCmG2.jpg" group-title="SERIES",Horizonte: Informe Covid S01 E04
+http://6ura.top:8000/series/fj50/ST5hj6jmQK/1072.avi
+#EXTINF:-1 tvg-id="" tvg-name="Horizonte: Informe Covid S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Uhj6o0f8ACcsWGj2oqT4MmCmG2.jpg" group-title="SERIES",Horizonte: Informe Covid S01 E05
+http://6ura.top:8000/series/fj50/ST5hj6jmQK/1073.avi
+#EXTINF:-1 tvg-id="" tvg-name="Horizonte: Informe Covid S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Uhj6o0f8ACcsWGj2oqT4MmCmG2.jpg" group-title="SERIES",Horizonte: Informe Covid S01 E06
+http://6ura.top:8000/series/fj50/ST5hj6jmQK/1075.avi
+#EXTINF:-1 tvg-id="" tvg-name="Horizonte: Informe Covid S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Uhj6o0f8ACcsWGj2oqT4MmCmG2.jpg" group-title="SERIES",Horizonte: Informe Covid S01 E07
+http://6ura.top:8000/series/fj50/ST5hj6jmQK/1076.avi
+#EXTINF:-1 tvg-id="" tvg-name="Horizonte: Informe Covid S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Uhj6o0f8ACcsWGj2oqT4MmCmG2.jpg" group-title="SERIES",Horizonte: Informe Covid S01 E08
+http://6ura.top:8000/series/fj50/ST5hj6jmQK/1077.avi
+#EXTINF:-1 tvg-id="" tvg-name="Horizonte: Informe Covid S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Uhj6o0f8ACcsWGj2oqT4MmCmG2.jpg" group-title="SERIES",Horizonte: Informe Covid S01 E09
+http://6ura.top:8000/series/fj50/ST5hj6jmQK/1078.avi
+#EXTINF:-1 tvg-id="" tvg-name="Horizonte: Informe Covid S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Uhj6o0f8ACcsWGj2oqT4MmCmG2.jpg" group-title="SERIES",Horizonte: Informe Covid S01 E10
+http://6ura.top:8000/series/fj50/ST5hj6jmQK/1079.avi
+#EXTINF:-1 tvg-id="" tvg-name="Horizonte: Informe Covid S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Uhj6o0f8ACcsWGj2oqT4MmCmG2.jpg" group-title="SERIES",Horizonte: Informe Covid S01 E11
+http://6ura.top:8000/series/fj50/ST5hj6jmQK/1080.avi
+#EXTINF:-1 tvg-id="" tvg-name="Horizonte: Informe Covid S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Uhj6o0f8ACcsWGj2oqT4MmCmG2.jpg" group-title="SERIES",Horizonte: Informe Covid S01 E12
+http://6ura.top:8000/series/fj50/ST5hj6jmQK/1081.avi
+#EXTINF:-1 tvg-id="" tvg-name="Horizonte: Informe Covid S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Uhj6o0f8ACcsWGj2oqT4MmCmG2.jpg" group-title="SERIES",Horizonte: Informe Covid S01 E13
+http://6ura.top:8000/series/fj50/ST5hj6jmQK/1082.avi
+#EXTINF:-1 tvg-id="" tvg-name="Horizonte: Informe Covid S01 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Uhj6o0f8ACcsWGj2oqT4MmCmG2.jpg" group-title="SERIES",Horizonte: Informe Covid S01 E14
+http://6ura.top:8000/series/fj50/ST5hj6jmQK/1083.avi
+#EXTINF:-1 tvg-id="" tvg-name="Horizonte: Informe Covid S01 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Uhj6o0f8ACcsWGj2oqT4MmCmG2.jpg" group-title="SERIES",Horizonte: Informe Covid S01 E15
+http://6ura.top:8000/series/fj50/ST5hj6jmQK/1085.avi
+#EXTINF:-1 tvg-id="" tvg-name="Horizonte: Informe Covid S01 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Uhj6o0f8ACcsWGj2oqT4MmCmG2.jpg" group-title="SERIES",Horizonte: Informe Covid S01 E16
+http://6ura.top:8000/series/fj50/ST5hj6jmQK/1086.avi
+#EXTINF:-1 tvg-id="" tvg-name="Horizonte: Informe Covid S01 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Uhj6o0f8ACcsWGj2oqT4MmCmG2.jpg" group-title="SERIES",Horizonte: Informe Covid S01 E17
+http://6ura.top:8000/series/fj50/ST5hj6jmQK/1087.avi
+#EXTINF:-1 tvg-id="" tvg-name="FBI: Most Wanted S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/taKmfRqnDrJQhUupIeqfAda3Ny5.jpg" group-title="SERIES",FBI: Most Wanted S01 E01
+http://6ura.top:8000/series/fj50/ST5hj6jmQK/1088.avi
+#EXTINF:-1 tvg-id="" tvg-name="FBI: Most Wanted S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/3m0MTgMaiwGWtz4BrBJYntbbRXk.jpg" group-title="SERIES",FBI: Most Wanted S01 E02
+http://6ura.top:8000/series/fj50/ST5hj6jmQK/1089.avi
+#EXTINF:-1 tvg-id="" tvg-name="FBI: Most Wanted S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/dlk6qSriJtJjqDlrB8ipxrVklO5.jpg" group-title="SERIES",FBI: Most Wanted S01 E03
+http://6ura.top:8000/series/fj50/ST5hj6jmQK/1090.avi
+#EXTINF:-1 tvg-id="" tvg-name="FBI: Most Wanted S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/mXLUY07qS32eua8SbdzMl55xReq.jpg" group-title="SERIES",FBI: Most Wanted S01 E04
+http://6ura.top:8000/series/fj50/ST5hj6jmQK/1091.avi
+#EXTINF:-1 tvg-id="" tvg-name="FBI: Most Wanted S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/8EJxTpK6iZEXB1dpQb34QwvqlZU.jpg" group-title="SERIES",FBI: Most Wanted S01 E05
+http://6ura.top:8000/series/fj50/ST5hj6jmQK/1092.avi
+#EXTINF:-1 tvg-id="" tvg-name="FBI: Most Wanted S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/oPaZ67HJ1bHEk5Fp9cFJKYy9uik.jpg" group-title="SERIES",FBI: Most Wanted S01 E06
+http://6ura.top:8000/series/fj50/ST5hj6jmQK/1093.avi
+#EXTINF:-1 tvg-id="" tvg-name="FBI: Most Wanted S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/8iK1ElnlIlRU1Wn7uYM6woxTpeT.jpg" group-title="SERIES",FBI: Most Wanted S01 E07
+http://6ura.top:8000/series/fj50/ST5hj6jmQK/1094.avi
+#EXTINF:-1 tvg-id="" tvg-name="The Investigation S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/xLrS93tLPWAYFWW9KvRDcrW6nWP.jpg" group-title="SERIES",The Investigation S01 E01
+http://6ura.top:8000/series/fj50/ST5hj6jmQK/1098.avi
+#EXTINF:-1 tvg-id="" tvg-name="The Investigation S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/ceNnPkbFWcoxkPpW2Dm5b5iQyV4.jpg" group-title="SERIES",The Investigation S01 E02
+http://6ura.top:8000/series/fj50/ST5hj6jmQK/1099.avi
+#EXTINF:-1 tvg-id="" tvg-name="The Stand S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/j4Zakq8VPdGFUszHNtT4jMh5R8Z.jpg" group-title="SERIES",The Stand S01 E01
+http://6ura.top:8000/series/fj50/ST5hj6jmQK/1100.avi
+#EXTINF:-1 tvg-id="" tvg-name="The Stand S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/3XP84B0EHue0gyNtveTRLMVuj43.jpg" group-title="SERIES",The Stand S01 E02
+http://6ura.top:8000/series/fj50/ST5hj6jmQK/1101.avi
+#EXTINF:-1 tvg-id="" tvg-name="The Stand S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/57VTEte2Y8mW0Q08pSc1l2zOwQ6.jpg" group-title="SERIES",The Stand S01 E03
+http://6ura.top:8000/series/fj50/ST5hj6jmQK/1102.avi
+#EXTINF:-1 tvg-id="" tvg-name="The Stand S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/dhvn4I44FKhNiUnwWKy59nax0Xo.jpg" group-title="SERIES",The Stand S01 E04
+http://6ura.top:8000/series/fj50/ST5hj6jmQK/1103.avi
